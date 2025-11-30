@@ -1,0 +1,52 @@
+[
+    {
+        "id": 101,
+        "name": "Alice Johnson",
+        "department": "Engineering",
+        "is_active": true,
+        "contact": {
+            "email": "alice@company.com",
+            "phone": "555-0101"
+        }
+    },
+    {
+        "id": 102,
+        "name": "Bob Smith",
+        "department": "Marketing",
+        "is_active": false,
+        "contact": {
+            "email": "bob@company.com",
+            "phone": "555-0102"
+        }
+    },
+    {
+        "id": 103,
+        "name": "Charlie Brown",
+        "department": "Design",
+        "is_active": true,
+        "contact": {
+            "email": "charlie@company.com",
+            "phone": "555-0103"
+        }
+    },
+    {
+        "id": 104,
+        "name": "Dana White",
+        "department": "Engineering",
+        "is_active": true,
+        "contact": {
+            "email": "dana@company.com",
+            "phone": "555-0104"
+        }
+    },
+    {
+        "id": 105,
+        "name": "Evan Wright",
+        "department": "HR",
+        "is_active": true,
+        "contact": {
+            "email": "evan@company.com",
+            "phone": "555-0105"
+        }
+    }
+]

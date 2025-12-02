@@ -1,52 +1,3005 @@
 [
     {
-        "id": 101,
-        "name": "Alice Johnson",
-        "department": "Engineering",
-        "is_active": true,
-        "contact": {
-            "email": "alice@company.com",
-            "phone": "555-0101"
-        }
+        "S.No": "1392757818",
+        "Product_Name": "pejmtRguPCvXyhBkDLofrJOzVxHaGiWMQdETUsNqFZbAcSnIKYlw",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.452559",
+        "Rate": "0.6708932413409388"
     },
     {
-        "id": 102,
-        "name": "Bob Smith",
-        "department": "Marketing",
-        "is_active": false,
-        "contact": {
-            "email": "bob@company.com",
-            "phone": "555-0102"
-        }
+        "S.No": "1010520403",
+        "Product_Name": "tsSGEbaUoWxrKqdBZlDvmkFejwQpTHLAfMPChgViJzNRXYOynuIc",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.452794",
+        "Rate": "0.02525100960807103"
     },
     {
-        "id": 103,
-        "name": "Charlie Brown",
-        "department": "Design",
-        "is_active": true,
-        "contact": {
-            "email": "charlie@company.com",
-            "phone": "555-0103"
-        }
+        "S.No": "2181432573",
+        "Product_Name": "csjAeEMBuWCqtrTQoShyFDdlzapnNGmIbLvxVURfwiHkgKOYXJPZ",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.452907",
+        "Rate": "0.5659669210965703"
     },
     {
-        "id": 104,
-        "name": "Dana White",
-        "department": "Engineering",
-        "is_active": true,
-        "contact": {
-            "email": "dana@company.com",
-            "phone": "555-0104"
-        }
+        "S.No": "306004685",
+        "Product_Name": "ZUsKPRycbuVCfqBEmzYdWIXwHeNMnLFvigTtOQjAlarDSoGkJxhp",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.452996",
+        "Rate": "0.6803081350078084"
     },
     {
-        "id": 105,
-        "name": "Evan Wright",
-        "department": "HR",
-        "is_active": true,
-        "contact": {
-            "email": "evan@company.com",
-            "phone": "555-0105"
-        }
+        "S.No": "3886323071",
+        "Product_Name": "RBFEJNrLVQcmMDsbUveySWpzYjutIPfXkCATdxhGaiogwnOKZlHq",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.453127",
+        "Rate": "0.45113608084049317"
+    },
+    {
+        "S.No": "3883548498",
+        "Product_Name": "adMbBseJwOfvLmKHFtlhAQTYWojyRNExVUIzgpcnqSGPiDCkrXZu",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.453180",
+        "Rate": "0.5820627798398103"
+    },
+    {
+        "S.No": "1718907412",
+        "Product_Name": "oJkOHAvursBiyhmCnjYDXGdETaxLfpWbUgeZtzcPMQKIwVqRNlSF",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.453228",
+        "Rate": "0.8665110367887833"
+    },
+    {
+        "S.No": "2235478549",
+        "Product_Name": "aTgEFehPURfBkVjNHrnJdMQXlAoCmwuOzZiSxDsvytKbqpYLcGIW",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.453275",
+        "Rate": "0.026270748204460515"
+    },
+    {
+        "S.No": "107333951",
+        "Product_Name": "SNlogcntjbdPIOkymJvTXHGCRZQsMAUeuBraVwfhqKFEiDpzYWxL",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.453365",
+        "Rate": "0.9965713876311615"
+    },
+    {
+        "S.No": "852411756",
+        "Product_Name": "cFxAsERDzOYgHkbhoiKlIGdurvBCjTqWVJnfMPeUXtNLmSypZwQa",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.453419",
+        "Rate": "0.4225940702928618"
+    },
+    {
+        "S.No": "797413202",
+        "Product_Name": "rMSnpdhRkmoEUNsHfWuQGKJbYajtzevyqcPwxiLCAFlXIDVTOgBZ",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.453467",
+        "Rate": "0.4410048180134585"
+    },
+    {
+        "S.No": "3943495787",
+        "Product_Name": "kSejrAxEWbfcdOYmyUMRwGlNZKFIgBvLJziTpVshCoDHqXnQaPtu",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.453558",
+        "Rate": "0.027096135547107103"
+    },
+    {
+        "S.No": "1831386581",
+        "Product_Name": "pRcIZEuqHznMjoLgFVvlTGiyhUaPkJeYwxmsKrSfWBbdOACQDtXN",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.453661",
+        "Rate": "0.9097803903437183"
+    },
+    {
+        "S.No": "3007328285",
+        "Product_Name": "uTFDOyiVYEwaGjotKmqWpdnLgZzBHMXPcAfQrSlNJbvshexUCRIk",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.453751",
+        "Rate": "0.08141404927323459"
+    },
+    {
+        "S.No": "3893856736",
+        "Product_Name": "hkNQrmKpjHuWUiwBbdRgFOolsDXvyMZALcISJtYnGzTPCVaEefxq",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.453842",
+        "Rate": "0.2496816796992758"
+    },
+    {
+        "S.No": "247801273",
+        "Product_Name": "fsvmoiZMaYRTyQnuzCUbVxSdFGlrLDBgEXejKkpOtNJcIPqWHwhA",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.453931",
+        "Rate": "0.3655019937937387"
+    },
+    {
+        "S.No": "1741290300",
+        "Product_Name": "JGiDZERrTxFAMdUXwHPBbfnlVQeIqYjhSstNzavgukLopmOWyCKc",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.454093",
+        "Rate": "0.189751829782563"
+    },
+    {
+        "S.No": "696612091",
+        "Product_Name": "yfBcmkAYxvRNdIVPeHlWZCtLUbTQnOprwoDShXzJaEKqsGuFMjgi",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.454206",
+        "Rate": "0.8695910823563914"
+    },
+    {
+        "S.No": "2549380581",
+        "Product_Name": "HMfCyQXhjsvaipPIGUJEYDxqzdmcNRebBFKOuTktlnrgLAZVwoWS",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.454317",
+        "Rate": "0.3018170868201131"
+    },
+    {
+        "S.No": "2268717248",
+        "Product_Name": "XovaQyqerMkGlRiDbWVHCEPAOYtpfdNcBJmgInuLKjxFwhTszZUS",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.454405",
+        "Rate": "0.4669325677706502"
+    },
+    {
+        "S.No": "3053133837",
+        "Product_Name": "ZbgfNGhkMjmnoLIFJvTPcdrCDtsalxpwBqWAVUuHOESyeQiXRYzK",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.454500",
+        "Rate": "0.7481969605102718"
+    },
+    {
+        "S.No": "3337619239",
+        "Product_Name": "dhNvzuiCjqYEfWLcAVStgTlkGOUHaZDRnrXJPwFeMKpIsBQmybox",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.454599",
+        "Rate": "0.8124455679913848"
+    },
+    {
+        "S.No": "1625923631",
+        "Product_Name": "mVMsotNzxfaCPvEpuHJdyhnAQDcSGrwUXKRBLWIiqYegbOFkTjZl",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.454697",
+        "Rate": "0.0212196915949604"
+    },
+    {
+        "S.No": "3326699847",
+        "Product_Name": "iXhtWCFMufTanqSlwsrYBEjmZoygkxPNHUIDGVecRdpvzJbLKQOA",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.454807",
+        "Rate": "0.9240712032400661"
+    },
+    {
+        "S.No": "2655249487",
+        "Product_Name": "kOUIZJRdSvLPVtsBFGMhgunxKEYjNebWwpifaTmHyAqcCoXDrlzQ",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.454902",
+        "Rate": "0.7111558699959285"
+    },
+    {
+        "S.No": "3230005735",
+        "Product_Name": "aHMuZrdnlhbzPViWeOtFYgJEcqQkGwIxLBjCNpfsDRmUATyoSKvX",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.454983",
+        "Rate": "0.0802849489920664"
+    },
+    {
+        "S.No": "3040352055",
+        "Product_Name": "AKRHLteCgaxPGEcnidzkqhFlOIBWNmTyvSjQsuoJfMUYrpVZXwDb",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.455115",
+        "Rate": "0.5206393321442809"
+    },
+    {
+        "S.No": "4290343475",
+        "Product_Name": "UAlHbVdijSgOqItvMQTpxmEFPZKyRuakYrncwsXLBoefJWChGNDz",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.455183",
+        "Rate": "0.5824704005430174"
+    },
+    {
+        "S.No": "603579933",
+        "Product_Name": "WPhYHkOoNtABujclfbzsCrqTKXFJUIMDvVxaEgyRnLSZmwdGQpei",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.455284",
+        "Rate": "0.2832063641072068"
+    },
+    {
+        "S.No": "196164088",
+        "Product_Name": "EvpNHJIcmCAUjshnzSoFYWxTuKGgkedbBrQZMaqXilDOfytPwLVR",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.455377",
+        "Rate": "0.3892123326574881"
+    },
+    {
+        "S.No": "786435554",
+        "Product_Name": "KvSTkBXNGRqxUWIjygVoPFuHeOlctCbrwZDEYJspzLAnfiQhMamd",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.455561",
+        "Rate": "0.9785331568068812"
+    },
+    {
+        "S.No": "4084837366",
+        "Product_Name": "zEuyTGDVRrOYMtAHKScqwbFPxCnealjLBpofQXgmUJkWZhNisdIv",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.455813",
+        "Rate": "0.10614846261846267"
+    },
+    {
+        "S.No": "3228038157",
+        "Product_Name": "ClOrnbqHXzfDAsZMjQFmGkcpyWSBNgPaELdowKUuJVehitvIYTRx",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.455924",
+        "Rate": "0.8040822409778488"
+    },
+    {
+        "S.No": "3537134318",
+        "Product_Name": "aAmdLjNsDoufPUkYXFIzOrvenpTiwcMGtyJbxHqZhECWlRBgVSQK",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.456016",
+        "Rate": "0.22244477155650166"
+    },
+    {
+        "S.No": "3684328324",
+        "Product_Name": "iqkJrpjwMdERGBAvmDngZLCKzVFUoHYOWuQhtysfIeSXbNxcalTP",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.456113",
+        "Rate": "0.42579309807457666"
+    },
+    {
+        "S.No": "3349505689",
+        "Product_Name": "dzFTQnrayfVNIGWRXvejkMPEgupxUcoAsbDOiLmJHKqCSYBwlhZt",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.456323",
+        "Rate": "0.2393653789522988"
+    },
+    {
+        "S.No": "2916164481",
+        "Product_Name": "LPMhHtwWjZUGQcIFpArDTixngsSfJmkzedECRYlyXNOVvbqBKaou",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.456406",
+        "Rate": "0.29109692778492713"
+    },
+    {
+        "S.No": "3164428077",
+        "Product_Name": "RuLUaJsXmeKHjwGYDflIqybAWVrOoChgcxztTZnpBvQSiFPdEkMN",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.456460",
+        "Rate": "0.6672341718910669"
+    },
+    {
+        "S.No": "1866545177",
+        "Product_Name": "EgOZBAUFxkcShljXGPVsJQyiINndHaYebzmvqCTowDWtpufMKLrR",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.456507",
+        "Rate": "0.8055064842725349"
+    },
+    {
+        "S.No": "3044270581",
+        "Product_Name": "sAwSYxmDVfBhlMvyHaRLrTouOjIcNXUGkpEqZzgCWFQtnPJKiedb",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.456581",
+        "Rate": "0.23360056721416955"
+    },
+    {
+        "S.No": "653856345",
+        "Product_Name": "odPQNTYLgfexzycWmwJjqkvAUhlVuIrGabRDtHpBXsCSOnMFEZKi",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.456718",
+        "Rate": "0.015092427595645885"
+    },
+    {
+        "S.No": "3562332270",
+        "Product_Name": "HGywMCkOIomTUtsKFuPSiVJDfEnQWNpYRjgcdbzeBAxvhlZLqrXa",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.456773",
+        "Rate": "0.27678416162542996"
+    },
+    {
+        "S.No": "2625016918",
+        "Product_Name": "lFLBVtyUgkQIDcziKsaWSpPJmTfYZjHOMGneRwovCXxEuNqAhdrb",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.456835",
+        "Rate": "0.6679432021708593"
+    },
+    {
+        "S.No": "3091048354",
+        "Product_Name": "zxVGXjcWfFQwYCPUskvraLyeJDnNmShdqBitEAlHgMKTobRZOIup",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.456925",
+        "Rate": "0.6345213581298269"
+    },
+    {
+        "S.No": "3930099219",
+        "Product_Name": "IpdNmtUPlbRcaehwLZFqDYjOnrKkfWxSMzCgAXiyVuBTEGQJvHso",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.457006",
+        "Rate": "0.15420843731421574"
+    },
+    {
+        "S.No": "1498908816",
+        "Product_Name": "KRMQSVOProeLtUIdzcjkJsYNCFbnEAGwHpZhyDXaxTufgmviWqBl",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.457056",
+        "Rate": "0.2973393190752963"
+    },
+    {
+        "S.No": "3525682425",
+        "Product_Name": "OuJCfnrUMRKxbTINtGokXYBPvsQLDwyHaeVlEdSgFZcjAhiWqpzm",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.457102",
+        "Rate": "0.41812926173643117"
+    },
+    {
+        "S.No": "645206345",
+        "Product_Name": "yjzafwMrSBqoXtNFclgALsYJTHGQvhpWEbmCPVZuOidxDURnKIek",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.457148",
+        "Rate": "0.623609218079664"
+    },
+    {
+        "S.No": "513842868",
+        "Product_Name": "nDgIFViXCbzWrqTaEfGyJmLPluhSKsxpeQMOBoNHRtAdvcZUjwkY",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.457194",
+        "Rate": "0.7904348625063217"
+    },
+    {
+        "S.No": "3094558828",
+        "Product_Name": "TmukUAoEPMYcHtXLeJIRpyKfVZqrjCbOWnwlFzDQdSiBGhxNvgsa",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.457310",
+        "Rate": "0.33533848974402514"
+    },
+    {
+        "S.No": "3069941429",
+        "Product_Name": "dMZtrhwiKLEUTmeocGOnJpfCkauSRBgFYAxPjbXNHDyzvsWVqIQl",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.457406",
+        "Rate": "0.6597368719982203"
+    },
+    {
+        "S.No": "2813381495",
+        "Product_Name": "tYdHyGwWrZfIxhQoubDlqaCXMPVcieUTBKnAzsjkSNgEpmFJORLv",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.457461",
+        "Rate": "0.010356731757051763"
+    },
+    {
+        "S.No": "3240153531",
+        "Product_Name": "WgbYQoiIvjwmKJLByPHfszhaXtAuSNcdeOlpUDnrMVkTGqCRxFEZ",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.457508",
+        "Rate": "0.08949016982606983"
+    },
+    {
+        "S.No": "2570367837",
+        "Product_Name": "jQqRrvgELVXGCPudfoyJMlpwacZsDnWieShUFHOzbAxYmtTINKkB",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.457579",
+        "Rate": "0.8737688489557712"
+    },
+    {
+        "S.No": "2628763396",
+        "Product_Name": "QkRABYiygDoJINUhfOzeFdGCMjsxplEVtwanmZHTSLqvXcKuPrWb",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.457770",
+        "Rate": "0.9972593080043223"
+    },
+    {
+        "S.No": "1173167133",
+        "Product_Name": "syjROSVAvpkEnQKfZMbzLqXYaNTdrWDGJlBticHoFmPUxuIweghC",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.457883",
+        "Rate": "0.6541270836033479"
+    },
+    {
+        "S.No": "1687889145",
+        "Product_Name": "aHEWmIrzYheRvdoSPtfwDjkKXQMiyunTgFxCcZpLBlqAsVJGbNOU",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.457994",
+        "Rate": "0.07600111157831546"
+    },
+    {
+        "S.No": "2081055725",
+        "Product_Name": "dTEvhFGsuQBNiqWKOgkISmfCjyRrpetLDHXlVaZzbMoUwJnPcAxY",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.458104",
+        "Rate": "0.8789109698276757"
+    },
+    {
+        "S.No": "2667975695",
+        "Product_Name": "cgaJnyGErpHvwfxmuTdqjSYkzehRUlXVBWFisPAoINZtKCDOQLMb",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.458213",
+        "Rate": "0.4819529978458955"
+    },
+    {
+        "S.No": "3162430464",
+        "Product_Name": "sKOqkoWCAljhNRDYJewQZvyfLmcaEpFrMPnSGuXBUVdHgxtzIbTi",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.458302",
+        "Rate": "0.8922596093285783"
+    },
+    {
+        "S.No": "446664279",
+        "Product_Name": "LKxOuiqbNIropGsMyXYUTcDlkSWtzHRnJAfjEQPawdmgevBCVZhF",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.458378",
+        "Rate": "0.5692219601107039"
+    },
+    {
+        "S.No": "2954843013",
+        "Product_Name": "eOipzWPcnthDxQbuBkZUyGaXvFloEYMsVwRfCATjqgIJKdNrSHmL",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.458454",
+        "Rate": "0.21396036336538826"
+    },
+    {
+        "S.No": "2830055617",
+        "Product_Name": "kCcPxYRwHQAVXprJzGIObgNZsEiqjFMnTDuyUoSKhdfLvmaBWlet",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.458549",
+        "Rate": "0.9650452249471639"
+    },
+    {
+        "S.No": "172959442",
+        "Product_Name": "RGLABIoiECSsvtMhKYyarWewucHVgbQTxqlfPXmJdzOkZpFjDNnU",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.458712",
+        "Rate": "0.6281738108111619"
+    },
+    {
+        "S.No": "3387502757",
+        "Product_Name": "bIDgPOwedSWZzUEkmJBHrspvfuxNlVCFjqyXAGMTohKtRnQcaiLY",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.458818",
+        "Rate": "0.43319894464217856"
+    },
+    {
+        "S.No": "1970823976",
+        "Product_Name": "oAvnjdxKYFLMVGXhrWczsylUbQZwEkBfmOipSuNRHqTDagJIeCtP",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.458921",
+        "Rate": "0.2371938466867507"
+    },
+    {
+        "S.No": "1597247775",
+        "Product_Name": "NDBVpfYUyhTFILCsAkWcPKQGtMzlbZSiJXmorxaHjwdnqEuRgveO",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.459024",
+        "Rate": "0.28151200503248297"
+    },
+    {
+        "S.No": "1483362819",
+        "Product_Name": "ZGlgDypCBRmxMJuVesLXitjPIETQdUYwHNqbSAvzcfraKFnOWkoh",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.459117",
+        "Rate": "0.16526987165307894"
+    },
+    {
+        "S.No": "2534988801",
+        "Product_Name": "FRmDwKIzeGTBjtQkfYlyNbXdnMLrZCiOxhUWpqSHJgsauoEvPcVA",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.459196",
+        "Rate": "0.1065383895178399"
+    },
+    {
+        "S.No": "2801419377",
+        "Product_Name": "HmNQGUgtFAkDPJZpMazhIKEqfsbuydveVOxoXicrCnWjRBTSwYLl",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.459309",
+        "Rate": "0.7222292509055627"
+    },
+    {
+        "S.No": "4238211031",
+        "Product_Name": "eYJVjRqTGENxgcACndrsMIhKzLuwyBfamtHoilXPkSUDFpvQbZWO",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.459420",
+        "Rate": "0.11653087775396875"
+    },
+    {
+        "S.No": "1101291006",
+        "Product_Name": "zLmUAaKcNZeJifkxtTBYgsQMFqnlhbopwrDPuGOjVEXSvdyCWRIH",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.459523",
+        "Rate": "0.4242387540929432"
+    },
+    {
+        "S.No": "305797170",
+        "Product_Name": "OVGstAeQpyWJdPcFaiNRbTxXBoKMHECrvuDmgSjUYzwfILhkZlqn",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.459687",
+        "Rate": "0.9377371913069035"
+    },
+    {
+        "S.No": "591103357",
+        "Product_Name": "ceAQlIHbrzMNgkGUJBKaOshZCDiWytwXVPLvuSnRjdEYmoFqxpTf",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.459794",
+        "Rate": "0.418252794246313"
+    },
+    {
+        "S.No": "583714557",
+        "Product_Name": "HeiRXwLEADOvhqZgtCVfJFozaPkGnYudTrybBmKQSUpMslWIjNcx",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.459890",
+        "Rate": "0.30474608479520016"
+    },
+    {
+        "S.No": "1016141031",
+        "Product_Name": "TlqQGeLytJrXujWUZNfIadnKcxhzRMOAwPopsbgEvYHkBViCFSmD",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.459994",
+        "Rate": "0.5576944368911528"
+    },
+    {
+        "S.No": "3959923577",
+        "Product_Name": "SVQEXdcsukgvAUMzlBNjeOwLpixoFymaWJTtCZHGKhfDIqRnPbYr",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.460092",
+        "Rate": "0.9423717623258948"
+    },
+    {
+        "S.No": "4091951925",
+        "Product_Name": "CPBZrplsaGVYtznfJmwASFIceyXUvbiTNogWDLRuKMkxEjqOhQHd",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.460148",
+        "Rate": "0.74925504747727"
+    },
+    {
+        "S.No": "3937105177",
+        "Product_Name": "YexfrdDTVPsoUyjBMpwHElWbgFRIXJCitLZmGQAvqacnzSKhuNkO",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.460233",
+        "Rate": "0.06639600350631425"
+    },
+    {
+        "S.No": "286297390",
+        "Product_Name": "hwvDUplcaTuBxFHKtgQCyoSOIbfPijRnqNJkMYXsGAEzemdLrVWZ",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.460329",
+        "Rate": "0.30270656567208665"
+    },
+    {
+        "S.No": "1159280982",
+        "Product_Name": "fErPadCGLUIzTtDHkypwmjFvWOhuXYMgsclSAQneVqZJxBobRiKN",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.460426",
+        "Rate": "0.05625419501258855"
+    },
+    {
+        "S.No": "2109912574",
+        "Product_Name": "VPwZRDdnzfsLXOuNTtpcjKUolMgeIEyikrqFvbaShYQCWGBAHmxJ",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.460483",
+        "Rate": "0.4677818797767569"
+    },
+    {
+        "S.No": "577741055",
+        "Product_Name": "DRwxOdsUtKkLHiIcGuvrqQVYhTWAzZJjmpBNCgPfyEeFSMlaobnX",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.460562",
+        "Rate": "0.661709724577275"
+    },
+    {
+        "S.No": "2537924237",
+        "Product_Name": "AxVdFKnqQvogUzYiMNXTGwIrblOecWtapSZuBkjJyhRCPLfDEsmH",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.460761",
+        "Rate": "0.4390203437630762"
+    },
+    {
+        "S.No": "2482076136",
+        "Product_Name": "JCBXwAjksuWyqZNGmdpVvcEaOHiMrDSTIhbRKnxoFgYfezQLPtlU",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.460874",
+        "Rate": "0.4855880027984568"
+    },
+    {
+        "S.No": "3324682690",
+        "Product_Name": "pGDOJdQjISVwuRCPFsmtKveBkyhgbrUXWznAfEcLaoxlYNiMTZqH",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.460964",
+        "Rate": "0.4043568794382446"
+    },
+    {
+        "S.No": "1020695050",
+        "Product_Name": "uitPZoLbdvEKewSXGrsVhmJMHClpIkYyaOTFnxqQUAWBNDjgfRcz",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.461071",
+        "Rate": "0.5449610509829004"
+    },
+    {
+        "S.No": "1641294800",
+        "Product_Name": "RdGDZvTFwArKVOMkpeBQbLstESJhlIaPguYjznmCqxoHiXUNfWcy",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.461175",
+        "Rate": "0.32980861821063656"
+    },
+    {
+        "S.No": "3161042905",
+        "Product_Name": "VIybFkoMeQzZEuSmKwlOptPhNvxXUWDJRTcriGLnsjBHqafYCgAd",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.461293",
+        "Rate": "0.8476716968437737"
+    },
+    {
+        "S.No": "3458386066",
+        "Product_Name": "YsAdbkOvtNfghXZmFaMTpnGoiSqxLWQJEKeuUzPDIVHycrBCwRlj",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.461398",
+        "Rate": "0.3286015978550134"
+    },
+    {
+        "S.No": "3740186889",
+        "Product_Name": "IFgUOjKVxGLvRnoBMrHeQEqfscWSdJiZDYtwXlNTyumaPCzbkAph",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.461497",
+        "Rate": "0.3460782177818933"
+    },
+    {
+        "S.No": "417554765",
+        "Product_Name": "JydamYDRiBkHVsOQglFWwxvprLSEtfhqKbCoAIcPznGeMuZUjTXN",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.461566",
+        "Rate": "0.3772678932543151"
+    },
+    {
+        "S.No": "1595445867",
+        "Product_Name": "NlBoPJGcMUgCQFTqALbiewXDVzaxrYEhtpZnuvOmSjRksIdKHWfy",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.461655",
+        "Rate": "0.14987407190377522"
+    },
+    {
+        "S.No": "2056762610",
+        "Product_Name": "GSmUYnFBJpEAlNTHQCdsoLbzDMRqxeVWjrhPkyifZvtuacKOXIwg",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.461719",
+        "Rate": "0.011655161429039884"
+    },
+    {
+        "S.No": "369175106",
+        "Product_Name": "rFQIOUePucJVtayHSzvYLWobNdflsAkXqZhEgwRDCKpixGTMnjmB",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.461825",
+        "Rate": "0.9716524334807547"
+    },
+    {
+        "S.No": "2213213735",
+        "Product_Name": "OQVDAIXhcviSCaYgWpqFlzdMKJyZnRTjHBmrLbPsGfNxueokUwtE",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.461918",
+        "Rate": "0.5638678498371876"
+    },
+    {
+        "S.No": "3144258228",
+        "Product_Name": "XpfrHGPqjbwBmxEgJiKRuMDQalLdCWozAUTtZeSInVsyOFNYvckh",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.462017",
+        "Rate": "0.23187093753751364"
+    },
+    {
+        "S.No": "4045282919",
+        "Product_Name": "dEifYCsvBKFUWymgRJShZqexIQDHnNLaTcAkuMrwlOVbjPpGotzX",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.462107",
+        "Rate": "0.694513433059625"
+    },
+    {
+        "S.No": "1532328874",
+        "Product_Name": "rGReQKmoPFUOXEqfZgSpAawuNHlcxbsWJIdDinykjLBvhCztMTVY",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.462162",
+        "Rate": "0.4262521533007054"
+    },
+    {
+        "S.No": "2479106576",
+        "Product_Name": "HhrJDlOKWMTqLzUagVQufxPiXtpcyACIZEbGwBeRYNjFsdkSmvno",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.462208",
+        "Rate": "0.2796721361754103"
+    },
+    {
+        "S.No": "1223466055",
+        "Product_Name": "KviDtyowceaUrCSAZRWzJnhbfdTsHFpmOkQxqXLgEBPYVujMGINl",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.462256",
+        "Rate": "0.4300428365614628"
+    },
+    {
+        "S.No": "1966253892",
+        "Product_Name": "SALDybtdPZuRIJxNUMwOXhTcVfnHzWleGmaKsoQYBkECiFrpvjgq",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.462302",
+        "Rate": "0.7232192272920578"
+    },
+    {
+        "S.No": "1220080599",
+        "Product_Name": "ElDXtbFuQaoyJmIvnCYHfZrjpSNwMWLAsVKzekTqOBghdPUxGciR",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.462349",
+        "Rate": "0.4949649274369585"
+    },
+    {
+        "S.No": "2704642092",
+        "Product_Name": "ClJaLAFTWpeBgOMNruiydhzZVIoXtbfUwGKQskRDjYSqHPEcxvnm",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.462393",
+        "Rate": "0.9044950518533265"
+    },
+    {
+        "S.No": "2320190877",
+        "Product_Name": "XUbMgxEFYQeuLSzjvfVioPlABCdZJwRckraqHTWhDNnIOsmtpGyK",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.462438",
+        "Rate": "0.7633189792087676"
+    },
+    {
+        "S.No": "2662361526",
+        "Product_Name": "zJNGOiKTvBCRtXHlFPIDYLVZhmMgAoWsQrpEUedyjcwuSfnbkaqx",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.462483",
+        "Rate": "0.11145288425012079"
+    },
+    {
+        "S.No": "2499639922",
+        "Product_Name": "IpiLNFqMcnoOXjzYVEPesQdKWgUBhmukvSbGylRfxawCDrTtHZJA",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.462536",
+        "Rate": "0.6218007441736749"
+    },
+    {
+        "S.No": "180859512",
+        "Product_Name": "NLsAazuwESQqhptCjIlyGcnHUrgYkJPebKBvxTMVFDWXZmfoOiRd",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.462586",
+        "Rate": "0.984918360739598"
+    },
+    {
+        "S.No": "4056615169",
+        "Product_Name": "fjgrOQBcqMmEPtRyezTIxGpuHJFaZbAvLwlYUXdiVSDknhoCsKNW",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.462750",
+        "Rate": "0.7927023326935987"
+    },
+    {
+        "S.No": "1445669322",
+        "Product_Name": "HuWagwBfAbUevOcClFsXESyIMpnQxGztLdRiJmorKNjqkPZYVDTh",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.462810",
+        "Rate": "0.794026042833883"
+    },
+    {
+        "S.No": "3485025076",
+        "Product_Name": "WNAHjzPlKJqiexBhcTvVLXIRgGnYusdokaMpDEwQfObrCUtSFmyZ",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.462858",
+        "Rate": "0.3154701825872761"
+    },
+    {
+        "S.No": "3033772059",
+        "Product_Name": "pLfIdCWANtyaVBSumcwXrKxiRPjkqDEOGghbYQveszZolJHTMnFU",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.462904",
+        "Rate": "0.3244852940837306"
+    },
+    {
+        "S.No": "1157183446",
+        "Product_Name": "jVqERYtdUDxBvWGiOCrpNLluJoKFbsaghceMAmkTSIHQnPzyZwXf",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.462989",
+        "Rate": "0.6207361741056591"
+    },
+    {
+        "S.No": "48815409",
+        "Product_Name": "cHzmfvhuPRnjkXqZJgibwyxQBCrYTUSKMWLpOEVGNlsdDoteaAIF",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.463078",
+        "Rate": "0.4820659749490571"
+    },
+    {
+        "S.No": "1399663874",
+        "Product_Name": "LBeXMotsqHpQCwVuRIimhWYfDlAZvEgJnxGjcOTyKNarFSbkPdzU",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.463129",
+        "Rate": "0.7154707406156742"
+    },
+    {
+        "S.No": "2017381819",
+        "Product_Name": "ZdHbjTozgVmRDiCWuFyxAltrfpJGeKLIhvwUcQnSqEOMXkBsYPaN",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.463175",
+        "Rate": "0.5431750573970986"
+    },
+    {
+        "S.No": "2802118683",
+        "Product_Name": "eRwjLdYZOvDBFuqIWCkNamoxTntUlfrhMyKbXzsScJGAHQpgViPE",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.463219",
+        "Rate": "0.18240535348053133"
+    },
+    {
+        "S.No": "2348359334",
+        "Product_Name": "wtQnBlVgboJEvGsCTIkmNDZdjhzHYxARFeWufSMcXPaUKOiLrqyp",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.463265",
+        "Rate": "0.2515234381079813"
+    },
+    {
+        "S.No": "2498424508",
+        "Product_Name": "tLkQdJAawqBcmbDeoFjIOzVEXRGNiWSlyUgKTPZhMvnufrxCsYHp",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.463322",
+        "Rate": "0.1405825263712447"
+    },
+    {
+        "S.No": "2605062054",
+        "Product_Name": "xvuPncaRDMQqjWsNelHAFbGVzUtmZYiJOLorBIKwXTgdEpkfSyhC",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.463368",
+        "Rate": "0.5451124562064313"
+    },
+    {
+        "S.No": "3885361870",
+        "Product_Name": "xGAuvXFtyzDWwqKHLfCQRJBOSncdVoiZmYlPkUNMbpheIasEjgrT",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.463413",
+        "Rate": "0.9932536034425862"
+    },
+    {
+        "S.No": "1180258318",
+        "Product_Name": "jyopOEKGJdWFgePlwuSbazZxnMRXBcvVLrmQDYfNtCUhkTAsqHiI",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.463456",
+        "Rate": "0.9388088187046474"
+    },
+    {
+        "S.No": "3230680671",
+        "Product_Name": "SOIMmZUKDkdEXfchJTlPzgpFsruCjyLHBaQRGYVwiqAbvNWtnxeo",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.463500",
+        "Rate": "0.07771112154431725"
+    },
+    {
+        "S.No": "89264729",
+        "Product_Name": "xEYzWMmCAbLSRHJnwokiaQprIXjqNcZgvlKhPeBTFfUOVsGtdDuy",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.463545",
+        "Rate": "0.48809686705985733"
+    },
+    {
+        "S.No": "2168851086",
+        "Product_Name": "GCkfueIoRVgiLjrhJtdvUbMENnAmwyQSqBOKDZXzlpcHaTsxWFPY",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.463591",
+        "Rate": "0.9203845759487634"
+    },
+    {
+        "S.No": "4021950491",
+        "Product_Name": "nmvfKzIDtQMRSEuTJeoZdwGBahVpNkybWOXCPgsULjlqFcxiAHrY",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.463742",
+        "Rate": "0.05633790211450318"
+    },
+    {
+        "S.No": "3084740377",
+        "Product_Name": "cvsIVEZHMmqCWXxTjJhQozKaPBUgtpGwOlubLeDYnyNrRiASFdfk",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.463849",
+        "Rate": "0.593287894923833"
+    },
+    {
+        "S.No": "1547687709",
+        "Product_Name": "WkHzFPvdqBKpQsRInLtbuZSCflxGrAYeTMDjoNiaUEJcVmwhXgyO",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.463959",
+        "Rate": "0.001254289103042816"
+    },
+    {
+        "S.No": "1736702025",
+        "Product_Name": "UlMQVupJZrHdfPnqetNXxaciTsIRDFgwOYWABybvGLmzEohSkKjC",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.464057",
+        "Rate": "0.008379264524800867"
+    },
+    {
+        "S.No": "156541213",
+        "Product_Name": "LtKxZSIkOBRNpohulfiHWMnwYJqcregzEmdyvFGUjAXsaQVCbPDT",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.464113",
+        "Rate": "0.6028728542227602"
+    },
+    {
+        "S.No": "1047902506",
+        "Product_Name": "LlKQpnAdqIVNJhkEzMucForvSyaPsxiGOTtjBUbewZfCDYgmRHWX",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.464206",
+        "Rate": "0.9300763577715795"
+    },
+    {
+        "S.No": "3302021465",
+        "Product_Name": "dxMctbQuHLKGzfJYoWkysvClEeUPNwXVRFaihIZgAOrqpDBjSnTm",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.464374",
+        "Rate": "0.9445782250245138"
+    },
+    {
+        "S.No": "3763011271",
+        "Product_Name": "oaPkcZEeHjiKUdvqTrXDnuYNbFfxmSQyJVCBstLhpwORIgzlWGAM",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.464502",
+        "Rate": "0.9398005886987832"
+    },
+    {
+        "S.No": "4273545494",
+        "Product_Name": "mOqXhJltozSArdCbNaLIPRfnjFUTZypKHBwxQEgGsYkeMDiWuVcv",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.464794",
+        "Rate": "0.581116941785338"
+    },
+    {
+        "S.No": "2095185802",
+        "Product_Name": "znpUvPSdVGDXtFOCujAawQMBshqLiyNIeYmZfxHEToWgKlbrRkJc",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.464907",
+        "Rate": "0.4565272422245511"
+    },
+    {
+        "S.No": "942448309",
+        "Product_Name": "HawriCYLzhJtTxdDPFGbgVycpjQMRAnUWKOXkovIuZEsSemNqflB",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.465010",
+        "Rate": "0.05415515620019762"
+    },
+    {
+        "S.No": "1493250048",
+        "Product_Name": "YCXzwVGjoRnWgbOPiKZqHhyFrtDSxamdQeucvJUTBINsEfAlMpkL",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.465110",
+        "Rate": "0.7190010436742937"
+    },
+    {
+        "S.No": "1755646098",
+        "Product_Name": "rmZJbkMHnqlLCWzpDEotNIPSsvTUcKYAdaXegjxFuGhfiQBOVRwy",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.465195",
+        "Rate": "0.2767551934842116"
+    },
+    {
+        "S.No": "2816974150",
+        "Product_Name": "qdsKJVESBznWNcgPvaUjlkGDQZpxYeXiCTRbLtIhmyOFAMfHowru",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.465275",
+        "Rate": "0.5658491302070361"
+    },
+    {
+        "S.No": "3781976049",
+        "Product_Name": "gCMhUBupNvKailWOkqAISxXDmbHGFJntRfQEswjoTzdYVcyPLZer",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.465359",
+        "Rate": "0.4321837256089499"
+    },
+    {
+        "S.No": "506487938",
+        "Product_Name": "HbtoMFhEwLJsPVgkGDOQzRAZyKNUcrjBXCiWaSfvTedpmYqlxuIn",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.465458",
+        "Rate": "0.7713872286316215"
+    },
+    {
+        "S.No": "1630977878",
+        "Product_Name": "mMxETFfqRpyujWIDnXVbvCgHdQrklaNJZewYUOAcLShKPozBisGt",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.465675",
+        "Rate": "0.6291092549216616"
+    },
+    {
+        "S.No": "2566993564",
+        "Product_Name": "zUKTYFXQSgLOpEeGBNsJvWkMqmnHaZwdxCfrtVuDIjAblihocyRP",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.465867",
+        "Rate": "0.09748838059265674"
+    },
+    {
+        "S.No": "3226003802",
+        "Product_Name": "gTfbKcRYHPnBFrvyQAwCWMJxZENtSzLODuqhsUXikVaImjelGpod",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.465982",
+        "Rate": "0.08006987892047435"
+    },
+    {
+        "S.No": "2496389771",
+        "Product_Name": "KkFIGUQzZqViRtxjChvdSJlMcEsXOPpngBbLyATeNamDWorHwfuY",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.466078",
+        "Rate": "0.9115318859049334"
+    },
+    {
+        "S.No": "4236050171",
+        "Product_Name": "yKrQCRmfBWXEOINDsHdZbYUzPjeluxSpaqnFioVMkvJwTGchLAtg",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.466179",
+        "Rate": "0.252527235295691"
+    },
+    {
+        "S.No": "253255165",
+        "Product_Name": "IMaHbPvinwcJGYoRmuUCWzdDlArsfQZEOSXTyeKBpgjtFkqVLxNh",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.466287",
+        "Rate": "0.15623050361480428"
+    },
+    {
+        "S.No": "801710872",
+        "Product_Name": "IpxmKjRGJryMCtWgdLTwcvUQXhbOzuANenfkPElHsaYiSoDZVqBF",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.466395",
+        "Rate": "0.30260385708711157"
+    },
+    {
+        "S.No": "242177029",
+        "Product_Name": "zujoZnqrUgIypTcKCMYQFvBXdbwthJGROifHaAkDxSLemVPWNslE",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.466499",
+        "Rate": "0.7906391745546351"
+    },
+    {
+        "S.No": "1183346620",
+        "Product_Name": "KvxgFJmjesrUAETHCDQMnwYNdqSipXkGlIVPzBuWoLtbhZaOcRyf",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.466618",
+        "Rate": "0.9120258399600328"
+    },
+    {
+        "S.No": "3569797360",
+        "Product_Name": "WPndFJjlLDoCrRswMvaOYhEGUBkimZeNIVcpQTbKAqyxSHgzXutf",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.466791",
+        "Rate": "0.7099922312093192"
+    },
+    {
+        "S.No": "1551042412",
+        "Product_Name": "uoKRAgwfqimrtQSbVkcZIMelTXyYPWEDjUaLGhsxzdBFNCpvJHOn",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.466975",
+        "Rate": "0.9914731195448803"
+    },
+    {
+        "S.No": "2627667215",
+        "Product_Name": "yIVEUpklGwZjbzhPquXxSYNvArdQTgoLtcCMBRmeiOfnWKDJaFsH",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.467103",
+        "Rate": "0.3399721712750676"
+    },
+    {
+        "S.No": "128941612",
+        "Product_Name": "CcxPTFYfIWQRnotGeBElbsLVSjKriDMkdOzwJymqpaZvHgNXUAhu",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.467253",
+        "Rate": "0.8065643538356504"
+    },
+    {
+        "S.No": "4044281842",
+        "Product_Name": "CDepbPETRLQUKWgqSwMnhvFBxcOaizHtysAYmXZdNlujkroIGVfJ",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.467360",
+        "Rate": "0.8238798314322859"
+    },
+    {
+        "S.No": "1700260704",
+        "Product_Name": "ljBUJypRcZFzghbLXtoQMvVxDaNSPEfnGiTArqmCWHkudOYsKeIw",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.467447",
+        "Rate": "0.0823387269166792"
+    },
+    {
+        "S.No": "2161518214",
+        "Product_Name": "CUkmrKAcLjRfVXzHuwyeDPMxYStQZohsGNbgIdTOlWBJFvEnaipq",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.467529",
+        "Rate": "0.896576202521387"
+    },
+    {
+        "S.No": "2509110785",
+        "Product_Name": "eXqwDzVZarxvcFpLyCHlMRJoknBPdYuQIgfNKThiOsSGEWbjtmAU",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.467617",
+        "Rate": "0.7668422088979692"
+    },
+    {
+        "S.No": "871080696",
+        "Product_Name": "qXnxKyrmCADfMjURkaEYBgtFOGvhHTsozJZLiduQlVewSbWPNcIp",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.467726",
+        "Rate": "0.04010723649627346"
+    },
+    {
+        "S.No": "299209794",
+        "Product_Name": "tGePyrYhpJKfvacWbsZXoMNHATQFEqLCxIODlSdigkUwRBmzjVnu",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.467876",
+        "Rate": "0.5078043860915314"
+    },
+    {
+        "S.No": "91281946",
+        "Product_Name": "ZVgmLtvoSiYMbqrxJAePHfzulkTpRNnEFQdBOXIjUKWcCGDsawyh",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.467965",
+        "Rate": "0.8527603415768636"
+    },
+    {
+        "S.No": "1553233013",
+        "Product_Name": "flajWAPqXrCkvUQSHyRphLzgDNoYMwidOVZcJeFuGtsmKITbxnBE",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.468053",
+        "Rate": "0.7361795737583063"
+    },
+    {
+        "S.No": "87182777",
+        "Product_Name": "kYEhXCVePLulMtHTiKaGDzZnOfjRgprBmxAISoQwFdcvNJsbyWqU",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.468146",
+        "Rate": "0.7399216523239418"
+    },
+    {
+        "S.No": "1166069795",
+        "Product_Name": "tJjnklMbrLKcZHSAwpGdQqFVsEhRXPxeimYBfzIvNuoOagWyTUDC",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.468292",
+        "Rate": "0.687755651642988"
+    },
+    {
+        "S.No": "3519729127",
+        "Product_Name": "phPKyOiSoBfkRNbdscQltTeWrIHLUJgAEnzCXuGZjqVwvmaYDMxF",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.468449",
+        "Rate": "0.09685667050264624"
+    },
+    {
+        "S.No": "1593315515",
+        "Product_Name": "whQovXPNZBFliAYCmfTRnzgbOEsxWejVcJyMtaDqkLHuSGIprUdK",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.468636",
+        "Rate": "0.677500528344505"
+    },
+    {
+        "S.No": "110482996",
+        "Product_Name": "AQVtlnPOkLKUsNrgwbDJRqvfIimFpHYGxzdCWyXoBcuhjTMaZSeE",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.468755",
+        "Rate": "0.47189420424505857"
+    },
+    {
+        "S.No": "2986770058",
+        "Product_Name": "RfVSqeNAEuJHYFUQnzlLyatxGhKImkOCgwBrZWTbdiPvsDjpXMoc",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.468914",
+        "Rate": "0.6900056087018545"
+    },
+    {
+        "S.No": "475547009",
+        "Product_Name": "ZQerVhptBkEmfAxFlbvPzMwTHSNociIjJDyXRWUqOnCYsgGLKuda",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.469013",
+        "Rate": "0.42923518646255565"
+    },
+    {
+        "S.No": "3726056048",
+        "Product_Name": "tYOVwLqjREmhuDxlACkZToKzrWSHNyMUXgpdJicvafFIPBbQenGs",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.469107",
+        "Rate": "0.358161749474028"
+    },
+    {
+        "S.No": "2062639822",
+        "Product_Name": "hIWdRYvLBfVKAylPwZernajmpXOuskcbTJQqoGHDtNEzSFMgCixU",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.469210",
+        "Rate": "0.6778280684468263"
+    },
+    {
+        "S.No": "2319431291",
+        "Product_Name": "EiLaxdpIWFljKDhXeUQmPvBZVtcAzoGwJqbSCfnHkgTYNORyusrM",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.469268",
+        "Rate": "0.1900911598138928"
+    },
+    {
+        "S.No": "3067461073",
+        "Product_Name": "wlsCyTIrMmNkWxbiRSBcgpfXOLdthEeDQnKZuzUFVGajYPovJAHq",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.469354",
+        "Rate": "0.25565299380698703"
+    },
+    {
+        "S.No": "3318190549",
+        "Product_Name": "KibBdUDOazNCrnqJGTRWIAXZsuegVtphmQSlPcfMxYvHwEkyoLjF",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.469448",
+        "Rate": "0.39685864294877216"
+    },
+    {
+        "S.No": "3218952730",
+        "Product_Name": "otvbISNhpMHfEaPqVmTgRAnckClFwXidrDBWeYLuJUZyxGzsjKQO",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.469544",
+        "Rate": "0.0010349631687943672"
+    },
+    {
+        "S.No": "2941001235",
+        "Product_Name": "cxahPjNJzwiDnlgKpZfFAbLQOmrVtMUXHIvCYGSsoRkTdWEqeByu",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.469625",
+        "Rate": "0.7950132745727237"
+    },
+    {
+        "S.No": "2617249196",
+        "Product_Name": "imXLdFNwBslTAjZpPfMczEonhWCRQUbvxYJHKGguISraOVkteyDq",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.469718",
+        "Rate": "0.019327526637728076"
+    },
+    {
+        "S.No": "189837955",
+        "Product_Name": "rbHuOsnRfaWBwqCcMUQeoTlIFXSjipJZkvLAmGKhEVgYyPDtNdzx",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.469878",
+        "Rate": "0.4826523625016903"
+    },
+    {
+        "S.No": "1685745858",
+        "Product_Name": "xuMNhpcBKnwfbjZTmoPvezsCryDUQEOiJXtqkVRFAILalHdGYgWS",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.469945",
+        "Rate": "0.3582792993547803"
+    },
+    {
+        "S.No": "78126876",
+        "Product_Name": "lFrzaoqgGejsSwvLtyNmAcOxJEpDCfRbinkhdPHIVWMYuQKTBXUZ",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.470013",
+        "Rate": "0.3591685159196226"
+    },
+    {
+        "S.No": "2949574563",
+        "Product_Name": "XLvRTdSmZJIOzbuNtMcfEQoqBwsrYeFnCDaAKxjilpkHWgPyVGhU",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.470127",
+        "Rate": "0.5255022186560472"
+    },
+    {
+        "S.No": "143319951",
+        "Product_Name": "EleYRjUTvgXyhVCAtQNmnsHGfIPDSirqwZMFbcOKxaJpudWozLkB",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.470196",
+        "Rate": "0.9973538380977119"
+    },
+    {
+        "S.No": "915749524",
+        "Product_Name": "ABbgtUvDIYSMFfHdzlVPmEsxJOaucWCXeKRQijqZGopLykrnNwTh",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.470244",
+        "Rate": "0.7729711750526127"
+    },
+    {
+        "S.No": "2344427054",
+        "Product_Name": "MLjUqnICpoNdrwhSxbHKlgeWamZvuOGQRPcyAfkBYtXEDVTFziJs",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.470291",
+        "Rate": "0.7945574371129058"
+    },
+    {
+        "S.No": "1463727538",
+        "Product_Name": "qlOJYIEefKNraugMLsQxApZbwHVXvzGkdjTWhomFcPytSiBCUDRn",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.470361",
+        "Rate": "0.9520108248782571"
+    },
+    {
+        "S.No": "2764847928",
+        "Product_Name": "WltAfPXnczhDRgjHwydEpBMJvQqYTaUuVxCisOGNkIKobSrLemFZ",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.470467",
+        "Rate": "0.9933931147140319"
+    },
+    {
+        "S.No": "2729967939",
+        "Product_Name": "uqwxoUyjtOVKQdDFrATCbngGfXepSBZziJavMkWNRmEclsIhYPHL",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.470578",
+        "Rate": "0.9254047096030333"
+    },
+    {
+        "S.No": "2474758420",
+        "Product_Name": "KHSuZbPLgVeEwijhyNtfTqlUMFrzsRIGYmAnBoJaCQxcpDWXvOdk",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.470656",
+        "Rate": "0.35861547751761835"
+    },
+    {
+        "S.No": "2804917660",
+        "Product_Name": "pdkCevwKIOJTNGRzZosgBjUAncDqhltfixaQymSuYHrFELbVMWXP",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.470705",
+        "Rate": "0.011536418047435548"
+    },
+    {
+        "S.No": "2190098715",
+        "Product_Name": "OMZxNPIRoYlsBWDQtcegvhnyqAapdHKiwTFkXJruGLCEzfbmSUjV",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.470750",
+        "Rate": "0.11622257902920141"
+    },
+    {
+        "S.No": "847087907",
+        "Product_Name": "KpAtFoEkqdZeBmsSCQgPbxLVMuwIHniXlDchjTyzrWUYavJNOGRf",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.470835",
+        "Rate": "0.45575156983737386"
+    },
+    {
+        "S.No": "558183799",
+        "Product_Name": "CzcMGBdpRlYgfynNFmKwxUehrsqaDXvuVtHjJWIiATOPEkZoSbLQ",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.470915",
+        "Rate": "0.28834765818580754"
+    },
+    {
+        "S.No": "2481055975",
+        "Product_Name": "aEtAiPSUoyqBksjcZMmRFVpuDJKNwhTGgCWzldbverLXOIHnYxQf",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.471026",
+        "Rate": "0.4294000749332869"
+    },
+    {
+        "S.No": "2591899477",
+        "Product_Name": "dCsbHYaTASlqXyBnkvmxcreVKIfgwJNDURWpojuGOiELtZhFPQzM",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.471100",
+        "Rate": "0.8454298742516709"
+    },
+    {
+        "S.No": "3212831214",
+        "Product_Name": "twljugNOayVdUFhTAPEcxKpvsMozILnGZiDqCkXQSrmJfBbRWeYH",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.471197",
+        "Rate": "0.8856308904316228"
+    },
+    {
+        "S.No": "1401372893",
+        "Product_Name": "tazEcfMBASesWiqZnkvxhOQuCVJrFYlwUTHboKXRNgydpDPmIGLj",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.471305",
+        "Rate": "0.6326434924954154"
+    },
+    {
+        "S.No": "464208112",
+        "Product_Name": "RdsPbKjeQWTVANDMGtmrJIxHwZcalLOkiFhvzypqEoUnuCfgXBSY",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.471409",
+        "Rate": "0.47648374175886377"
+    },
+    {
+        "S.No": "1444073404",
+        "Product_Name": "rAbhSqiORVBIWanoflHzQKwpecTsUjXGPdtykDFMmuEJgNZvCLYx",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.471512",
+        "Rate": "0.1255090252753458"
+    },
+    {
+        "S.No": "524987193",
+        "Product_Name": "MQlUKNnHaPeRLOGuEkWICZAJzwBTryXYfsciVghxvpdjSobqmDtF",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.471620",
+        "Rate": "0.19204034820050508"
+    },
+    {
+        "S.No": "335589049",
+        "Product_Name": "mudVxRcJUCKpgyEDNjeaGiTwYfAOMoWZLnbsFhBtPSXqzkvlrQHI",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.471708",
+        "Rate": "0.2489467867676488"
+    },
+    {
+        "S.No": "2230815196",
+        "Product_Name": "pfxGPMuKIdQObFZCchVmnsRgWiaHBqvXNTloYEtrJUAweLDjkSyz",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.471837",
+        "Rate": "0.5653995280916854"
+    },
+    {
+        "S.No": "117633473",
+        "Product_Name": "oNQEwcKPSnpYbhiXzaqGRIrDsUuCLHOjfAWFtVMkxZymTJdegBvl",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.471924",
+        "Rate": "0.7175915026428267"
+    },
+    {
+        "S.No": "3816085014",
+        "Product_Name": "dAmHkKJvIsaDYgwZXSyCLcoUPFunzbqxNrBjilTpVfGtROMhWEeQ",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.471999",
+        "Rate": "0.3279648614812436"
+    },
+    {
+        "S.No": "1086481863",
+        "Product_Name": "FrOTpBIGCXdDkcVHiLsgMfhvExoAUSWuqJjlYRNPwZzeaQKtbymn",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.472086",
+        "Rate": "0.6160990684988115"
+    },
+    {
+        "S.No": "1310103623",
+        "Product_Name": "SEYkGqbDhZLcRsOoiJrunBdMUegQawmtWzFPpIVvlTHCNxfAjyKX",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.472244",
+        "Rate": "0.36289845845488367"
+    },
+    {
+        "S.No": "3253143726",
+        "Product_Name": "AzaTMjBCZHPVcDxvQmXIrFSNiGYUbqEKfyeRhgWkwdtlpLuJOson",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.472442",
+        "Rate": "0.8018943528259388"
+    },
+    {
+        "S.No": "2214892543",
+        "Product_Name": "uMzjPcgFlDyqpXbfWQCZvHRoSITxrtBnesaKUdNkLYAiJGhEmwVO",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.472653",
+        "Rate": "0.8830711303717629"
+    },
+    {
+        "S.No": "1883182265",
+        "Product_Name": "luqOdjVRgSwAcsQCioJIfrvbFHNnDBxXZkyePWazMLhTmUpYtKGE",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.472774",
+        "Rate": "0.16779804176926105"
+    },
+    {
+        "S.No": "749211097",
+        "Product_Name": "FoeKbzQRZOUiIGdafLltYqVrBCEDMxSHmyAhvjWPnckJpswuNTXg",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.472886",
+        "Rate": "0.6118540910001555"
+    },
+    {
+        "S.No": "2029426529",
+        "Product_Name": "pLarkSnwjxDAoUGVBzZiWKMOTyCdgQIsfbHEvhcmRFNeYJPqXult",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.473038",
+        "Rate": "0.3186414884140929"
+    },
+    {
+        "S.No": "1963045981",
+        "Product_Name": "JbtenNKspuQXAmafHwOFrlqgShoTIdEvZWVixDYPGzUjBycRLMkC",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.473093",
+        "Rate": "0.2966327532807075"
+    },
+    {
+        "S.No": "634002045",
+        "Product_Name": "jTNFZfAmdXpWzEoLgshYGiVIbDeJQtwnOBcRHaCvxKkqyPrUMlSu",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.473180",
+        "Rate": "0.5811846831015008"
+    },
+    {
+        "S.No": "3253460082",
+        "Product_Name": "XdEniJpghzCYHORxoIvMsklVqetPSmfZcwNauQFKjULABTDyrGbW",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.473266",
+        "Rate": "0.1981802653194904"
+    },
+    {
+        "S.No": "2491313046",
+        "Product_Name": "IFphqzgLSRtuBscdNrbKPMEHyZUoGJvWlnaewCQOVYDjmxfAXikT",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.473319",
+        "Rate": "0.7507395967756203"
+    },
+    {
+        "S.No": "1073373740",
+        "Product_Name": "nJOszuKFZRfEveQygciBXPqlGrUmVobLtDkYhATjHdIMWpwCSNxa",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.473367",
+        "Rate": "0.5139413016542749"
+    },
+    {
+        "S.No": "3718565774",
+        "Product_Name": "nwfWSJKyUxGcFIdshVRjXpvCiElYLkbNeZrBDaoHtTuAgMOzQqPm",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.473414",
+        "Rate": "0.6924866509180408"
+    },
+    {
+        "S.No": "1334363681",
+        "Product_Name": "uySptQTrnHzDCqfRaUobLjFeBXmdsENlVJOGYcwPWgZxIKkAhMiv",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.473462",
+        "Rate": "0.19999230991083994"
+    },
+    {
+        "S.No": "3183693450",
+        "Product_Name": "xotKfqrywsbCuJTaBMVQOAclWIvpXYGjzgUhdFDSLnHkZNeRimEP",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.473507",
+        "Rate": "0.8512355652458313"
+    },
+    {
+        "S.No": "3769275621",
+        "Product_Name": "cevPHRjGEnqNuDtAZKMIBQfyxhUOaTJlCXSgoWLmYVribkdsFzpw",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.473552",
+        "Rate": "0.12950338282505758"
+    },
+    {
+        "S.No": "2351737949",
+        "Product_Name": "UFhyaPNrVWbODTqnMIdougviAHQZmpkwsJLYKCXzBlxRjtEceSfG",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.473597",
+        "Rate": "0.80951560286625"
+    },
+    {
+        "S.No": "3977898904",
+        "Product_Name": "xmhkueHlECGjDBTOygNMFLQcPapnfIqitZrXYJsRbSWwKVUvzoAd",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.473642",
+        "Rate": "0.19886276306490158"
+    },
+    {
+        "S.No": "3281412429",
+        "Product_Name": "uypWCRXrwqnmiTMkYtfHacNDlQUBszZGIvxOPSjhbKgFdeELVoJA",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.473686",
+        "Rate": "0.15330445984419727"
+    },
+    {
+        "S.No": "1788692558",
+        "Product_Name": "HYKDhZtzESrnoPiIBNjURdgqsLAwfxaeGXWkvbJVTucMpOFylQCm",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.473731",
+        "Rate": "0.9812712993035424"
+    },
+    {
+        "S.No": "3710842664",
+        "Product_Name": "FKrsZQefiLPEHtavmygudJhRocjNUqlzwIMTCnkGYApxVDXSOWbB",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.473775",
+        "Rate": "0.30855885434621644"
+    },
+    {
+        "S.No": "3645019050",
+        "Product_Name": "wvNFIsKVGRxbnhcCWXZQHlBimoSJPMgTeOqdAUfjzyrEYtuDpkLa",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.473819",
+        "Rate": "0.8514631427178271"
+    },
+    {
+        "S.No": "3392363283",
+        "Product_Name": "HnUQomCIlAujJcfSLGDszEMXxReBpiaTKFbWytPrgdNOqkZhwvVY",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.473863",
+        "Rate": "0.4954654566821326"
+    },
+    {
+        "S.No": "2673175226",
+        "Product_Name": "qnBRFQztchTfeYXHdoVuZaSLrMKCvNlJkyDIswjpiAPbxgmOGEWU",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.473960",
+        "Rate": "0.9214704939372025"
+    },
+    {
+        "S.No": "3122554252",
+        "Product_Name": "ucPQzRslMNdBmIFxHCtpXnYAVLbOfwSiWoJEDqrkGKayjhgZUveT",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.474008",
+        "Rate": "0.44603243565999284"
+    },
+    {
+        "S.No": "2898998566",
+        "Product_Name": "XYbhxiQgPOIwUMBSNRjLVEzDAmqCluaksfpWcTtnZyoHeJKrFdGv",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.474055",
+        "Rate": "0.4954323068634321"
+    },
+    {
+        "S.No": "2994441446",
+        "Product_Name": "sKmSEwjyfNcWlZPqdQRMYeADvrViBtxHGFzgkXCOhIabJLpnoTuU",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.474102",
+        "Rate": "0.7838426076619149"
+    },
+    {
+        "S.No": "3521430228",
+        "Product_Name": "VmEQjiewbMxhlTRgcYqfCUoFBHLzAKPZpJdnOWItauNrSsDyXkGv",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.474146",
+        "Rate": "0.4239823187623736"
+    },
+    {
+        "S.No": "57880687",
+        "Product_Name": "dKqnVRtBECSvQJNXpHuzewfYUFsbjlWGIgTamZoiADPyrcOhxMLk",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.474192",
+        "Rate": "0.24445333954483162"
+    },
+    {
+        "S.No": "3469918823",
+        "Product_Name": "HMEgohfXBzbrvPTtVwZsldOauIcAKnLpyRSNYmFDQjJeqkCGiUxW",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.474253",
+        "Rate": "0.7705147754255307"
+    },
+    {
+        "S.No": "2535832938",
+        "Product_Name": "uUWaZMNjDFLHKkQSYmqyBGligIfXCpPxowzTJsvRchebVdOnAEtr",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.474302",
+        "Rate": "0.8342638133655684"
+    },
+    {
+        "S.No": "1870713723",
+        "Product_Name": "OCSgqnGzAfoFyxuMwXkYBmheaEvrQZscVHTIiUpJWjRNldbKPLDt",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.474347",
+        "Rate": "0.7241459808282874"
+    },
+    {
+        "S.No": "1077964946",
+        "Product_Name": "xjvouAdGkpPNnhrVXTgWaYQytqBHlmEICsRZJSMKDzieLOfwcUbF",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.474392",
+        "Rate": "0.2780919964470804"
+    },
+    {
+        "S.No": "2040936430",
+        "Product_Name": "cEyzsgibaAFufVorkQLmxNqPpvDjKCwSOUXhBTJeRGHlZYIWndtM",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.474439",
+        "Rate": "0.45836616487388393"
+    },
+    {
+        "S.No": "3199645553",
+        "Product_Name": "EYXiJcArQnMzbBHIpwZhaTVdlqgtNPsOujCWUSvekDfKRGLmyxFo",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.474484",
+        "Rate": "0.5522859859595108"
+    },
+    {
+        "S.No": "3795174949",
+        "Product_Name": "gmMWQaGLnCzqKOhAcyRSoTirwfdZxUtBHNJVebEFkYjlPXsIDupv",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.474528",
+        "Rate": "0.12983990170474347"
+    },
+    {
+        "S.No": "4081012890",
+        "Product_Name": "jRgfimJpNdMsUGbDHhaLxBTzCQtlYVkPOWKXIqAEwcnSyeuoZvrF",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.474571",
+        "Rate": "0.6264679325093152"
+    },
+    {
+        "S.No": "2186622553",
+        "Product_Name": "ZIjVEuydviWtSTFwxXPsQqGmRlfeYUkKhMCBrLcbHaAonDNOJgpz",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.474615",
+        "Rate": "0.41075346056881257"
+    },
+    {
+        "S.No": "1949336896",
+        "Product_Name": "LZzWukwdaVDFRJioTbPrfmEKpNUGnOHhlgcyevQjCASqsxBtIXMY",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.474659",
+        "Rate": "0.3518485686610059"
+    },
+    {
+        "S.No": "1355011187",
+        "Product_Name": "MaQFzUPIZyoNriejwKGgntlYRpusxhdvOkETASJLWXcfDbVHqBCm",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.474703",
+        "Rate": "0.33115413003910954"
+    },
+    {
+        "S.No": "2333710389",
+        "Product_Name": "vygRbYZECxkVScHuBKWhoeTzsUFtDpJjXPwraIGmlMdnfqQiLOAN",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.474747",
+        "Rate": "0.3145357953197062"
+    },
+    {
+        "S.No": "3495823699",
+        "Product_Name": "DJvsxEwVfFPbYiNCpoKRGHLAdnBmqheWUIalktjOguXyrzScQTZM",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.474791",
+        "Rate": "0.8886442642654742"
+    },
+    {
+        "S.No": "3648239675",
+        "Product_Name": "fYlcMCiXEmKZzRDgTjWNIavJGpVyLohbOQPnSHdFsrBtAekuqUxw",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.474836",
+        "Rate": "0.16309798846941004"
+    },
+    {
+        "S.No": "350682720",
+        "Product_Name": "wfKxJRSQlmBPkWgqNpHndvbceYOCzuaIDZTiUhyoXAFMjLtrVsGE",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.474925",
+        "Rate": "0.1564752883463716"
+    },
+    {
+        "S.No": "1933415303",
+        "Product_Name": "oJiTBYWKchHEZUynQIkqmFlzSRVvarLGewOtbdupPMCfxAsDNXjg",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.474981",
+        "Rate": "0.9796472143337991"
+    },
+    {
+        "S.No": "2964599863",
+        "Product_Name": "rmGfWKjFSEJCgMzPneoYdLUlNwTAyDBxbktaQuXZRsOIviHpqhcV",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.475029",
+        "Rate": "0.7627973939260787"
+    },
+    {
+        "S.No": "2146876836",
+        "Product_Name": "ydLJUugniHXepkNslGzOwFvVaPStBqWCREAfrhDIcKTQYbmxoZMj",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.475074",
+        "Rate": "0.9527925078665066"
+    },
+    {
+        "S.No": "3522245480",
+        "Product_Name": "uCmWbpwqPKRMVHvBfhxQoIkUjSDEyeXlnTFrdzcaYAZgOiLsJtNG",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.475117",
+        "Rate": "0.9823208955768873"
+    },
+    {
+        "S.No": "1850939557",
+        "Product_Name": "OPyNAZKJodujtEqXbpGVHiSxYWwgeBmcsFzfhrkQCLIvTanDMRlU",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.475161",
+        "Rate": "0.329172538269664"
+    },
+    {
+        "S.No": "2439223414",
+        "Product_Name": "oINKjLqZHakwQGducbTDxtzUrghSiXsACWERByfMOPlnFVeJpmvY",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.475206",
+        "Rate": "0.38539050582542844"
+    },
+    {
+        "S.No": "2662839067",
+        "Product_Name": "TgKjvpXGBkqRFlsfdaNScIzEDMWHemPwiybnVhOUAuQZxtrYoCLJ",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.475251",
+        "Rate": "0.054743774824163705"
+    },
+    {
+        "S.No": "1659279705",
+        "Product_Name": "gZbQhiUSzjLxyElPNIHrWTBMuqfkVJwaYtnAoveOpmRXFGdsCcKD",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.475295",
+        "Rate": "0.8039571179371978"
+    },
+    {
+        "S.No": "268187461",
+        "Product_Name": "rncaOkofmNjPeYCMUFdRDEgqtGIByhAZWLxpXizSHTKQbsuJlVvw",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.475339",
+        "Rate": "0.9510817160453923"
+    },
+    {
+        "S.No": "213534520",
+        "Product_Name": "kiDFRzTNBtfGMVcYomgLSnxldOpJjeuwsAEIPrQUvhKyCHWqabZX",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.475384",
+        "Rate": "0.5341032087562866"
+    },
+    {
+        "S.No": "3756691865",
+        "Product_Name": "MFenXGBWSrNgJodHzqAETsbZUIjfRwQliVkchCmPYvupKOxtDaLy",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.475427",
+        "Rate": "0.6609128620914964"
+    },
+    {
+        "S.No": "3001447505",
+        "Product_Name": "smbjTOUHkMcqLfNaKAGZeJBWolPSiDzvhxIgwCFEdQVtrpYRnuyX",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.475471",
+        "Rate": "0.2576629975798612"
+    },
+    {
+        "S.No": "786027533",
+        "Product_Name": "SNWUGQoDvPRKjzLAEfOpmVYFZxtMHBladqTuIecnirJhgywCksbX",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.475516",
+        "Rate": "0.20409080599349305"
+    },
+    {
+        "S.No": "137578571",
+        "Product_Name": "hIQkbxlYDoiHfLugNswAcvyXdPjOnzMmEBSGaZWrpqJUFCVeRKTt",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.475560",
+        "Rate": "0.7719022230406567"
+    },
+    {
+        "S.No": "2798881398",
+        "Product_Name": "ZRxlpJaDQwLTAVqshtGBHYEPXUFgdbfCejzicmkSMvIWnuOyNKro",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.475604",
+        "Rate": "0.6233806166158775"
+    },
+    {
+        "S.No": "1987729793",
+        "Product_Name": "BGPcJvetMujYwkryLoabFHdCzQnKNZRsAlTqmXiIgSfOExpUhWDV",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.475651",
+        "Rate": "0.35872783865783764"
+    },
+    {
+        "S.No": "1644749854",
+        "Product_Name": "lOXCrigdNRKqLpsInyMEUYktxcPafujJmGTFhVAbwSQZevWDzBoH",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.475695",
+        "Rate": "0.7201106154779289"
+    },
+    {
+        "S.No": "461306290",
+        "Product_Name": "DsZfARbhNPMurUglVotKSFTCWIHnaGQiLckyqOmpdYzXBjvJExew",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.475740",
+        "Rate": "0.9514625060838556"
+    },
+    {
+        "S.No": "1293404181",
+        "Product_Name": "FcnNBiLlQYaHwzVKMxSIkjygpAdbDZmJOhoRTWGUPqutvrCesfEX",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.475797",
+        "Rate": "0.7176266591320907"
+    },
+    {
+        "S.No": "2540483833",
+        "Product_Name": "kJaZjSQtqXLYOEoRxhgdCiGlvsBprwznfIDFbyPTHWMVmUcNAeKu",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.475916",
+        "Rate": "0.1341926700808913"
+    },
+    {
+        "S.No": "419068282",
+        "Product_Name": "EqzeJLuCBKihZUHmDIpMGfxXvTWwokrlVNPAOtbcYnRagsjQdFSy",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.475974",
+        "Rate": "0.5307677572686207"
+    },
+    {
+        "S.No": "2634967394",
+        "Product_Name": "fABuMkYVdPjazsXxrleFLSZKwncDTRhpgmbHWqUGtioyIEQJvCNO",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.476023",
+        "Rate": "0.7375036209696101"
+    },
+    {
+        "S.No": "1088621998",
+        "Product_Name": "JfQgSlWuYGhCptmaZVoyALkEBdvzMcXPNbFeqxTjOsiwKrnRUIDH",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.476069",
+        "Rate": "0.7345238464165148"
+    },
+    {
+        "S.No": "3750204135",
+        "Product_Name": "FKtYNcCZDgqGSOXWLfEIBHkJsUAMeiamVPovyunhjxwRzrTbdlQp",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.476114",
+        "Rate": "0.527401708654613"
+    },
+    {
+        "S.No": "986645638",
+        "Product_Name": "aFNjIyRPXlmZuBeCEpMtgzfAvHQDxbnJGiVUhkYsWKSOwdLqcTor",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.476159",
+        "Rate": "0.3346737150265652"
+    },
+    {
+        "S.No": "3563839335",
+        "Product_Name": "fUOMelhDWpSrizHCRAcuvPqNYktBsjFaZTgmQEGwbxynIdXoLVJK",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.476204",
+        "Rate": "0.7167183144003068"
+    },
+    {
+        "S.No": "950330545",
+        "Product_Name": "iOxukaTZJNljCPIgBUhsrfqKmtYLbcWMGpywQoFAEvHdDVSzXneR",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.476260",
+        "Rate": "0.03175712662689956"
+    },
+    {
+        "S.No": "1053797425",
+        "Product_Name": "faEKByxrSIZGMkTmsehVHAUiqjPtWXNFcuYCzRdbOpglnowDJQLv",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.476308",
+        "Rate": "0.9315025092333471"
+    },
+    {
+        "S.No": "1710494783",
+        "Product_Name": "DnloCmyOWsUaxRHqIJEYcKvVQBpNkiFrdMeTStufgwZLzhbPXjGA",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.476354",
+        "Rate": "0.9448832617610207"
+    },
+    {
+        "S.No": "2226171447",
+        "Product_Name": "TArasokfQSzLFuKivRXjJpUgZIcVPYCbDtwWByEmdOqNGnHexMlh",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.476400",
+        "Rate": "0.08924629304118947"
+    },
+    {
+        "S.No": "2423768353",
+        "Product_Name": "LOkbItsuAwJQZevXBTDjcEloUprGfqFCWYnhKSRgNaxzHyMVmdPi",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.476445",
+        "Rate": "0.1544492279401518"
+    },
+    {
+        "S.No": "3709077233",
+        "Product_Name": "jMdDwybPWzNnTJikCEfaIxKRGOuVLmHsUcptohQevlSqrBYZAgXF",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.476490",
+        "Rate": "0.0792570792319911"
+    },
+    {
+        "S.No": "1209879696",
+        "Product_Name": "VHDioOfCgjAzLJXqNvrTZBphsmxuWREeMnlUdGwaItKkQcSFYbyP",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.476534",
+        "Rate": "0.5982902013226212"
+    },
+    {
+        "S.No": "81998963",
+        "Product_Name": "zbVQliESfXGhFLvnWpROwePDjmABUuTKdCasYxqrHoINkgJcZMyt",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.476578",
+        "Rate": "0.35148471325647634"
+    },
+    {
+        "S.No": "2226030986",
+        "Product_Name": "ySQBEfRVZnuGaKFMmvIXAYesTcpUqrWijJOdwgoCbPDxkhNHLtzl",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.476693",
+        "Rate": "0.400474836857026"
+    },
+    {
+        "S.No": "2366257459",
+        "Product_Name": "PIrXJKEjQganhtosxyiBqTdkZLMYHvlbOGmuwNFWezVCURfcApDS",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.476752",
+        "Rate": "0.7236931373151878"
+    },
+    {
+        "S.No": "3331449814",
+        "Product_Name": "WJbdNXypQsTxUcMGtiguoDZnfSOYVkAwBvjEImlhKzeaPFLrRCHq",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.476801",
+        "Rate": "0.03991358398884437"
+    },
+    {
+        "S.No": "587392580",
+        "Product_Name": "WdNeRxFvqAGSVlgCoJzHmYjfUkpnBcaLhODitubEsKMQryZXPTIw",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.476847",
+        "Rate": "0.5290094944712332"
+    },
+    {
+        "S.No": "89821501",
+        "Product_Name": "ktCliJpwfVXPrhRbIyBFTMGxdoqcKnjuzUDNYHWAESseaOvmZgLQ",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.476934",
+        "Rate": "0.5997549147563545"
+    },
+    {
+        "S.No": "3380144356",
+        "Product_Name": "MmdXqgYHkBKtlrDoyxQNUCsSIwWavnTzVGZFjuLfAbRcPhJepOiE",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.476987",
+        "Rate": "0.8310490158328864"
+    },
+    {
+        "S.No": "246319727",
+        "Product_Name": "yHEcuemglxhaTAJqwYUvWiILNbKXDMQzRZfSjsGkpFVtrdOonCPB",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.477034",
+        "Rate": "0.6745421784783904"
+    },
+    {
+        "S.No": "58854990",
+        "Product_Name": "hYPSREUAsmqFjkLcTQnNCzpfOwXtlZKHoaGidebVrBWvIJxyguMD",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.477079",
+        "Rate": "0.039952387437677817"
+    },
+    {
+        "S.No": "1050139933",
+        "Product_Name": "bPUZyQfChKMoVLDWRguTFNcwzJAtOlXHIeEpGSmrainBjxqvdsYk",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.477124",
+        "Rate": "0.3174336319236065"
+    },
+    {
+        "S.No": "1739407678",
+        "Product_Name": "hrIndCZkygQfqvomEwuxNApKUDBPLVHbJSjGzRMOFWtTieaXscYl",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.477168",
+        "Rate": "0.6266534077436388"
+    },
+    {
+        "S.No": "4175717848",
+        "Product_Name": "jlwZyAukHXRKtiWCOdJshSBerMGVLxofEbgvTYaNFpnzcQPqDUIm",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.477213",
+        "Rate": "0.6815145003347488"
+    },
+    {
+        "S.No": "544647975",
+        "Product_Name": "oLihkAPsrRNdxQXlfDjOpWEnuKeYwSgBmqFcJabCytUzvVGHTZMI",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.477257",
+        "Rate": "0.32481011578825625"
+    },
+    {
+        "S.No": "2706341626",
+        "Product_Name": "ONWGxwRvzMaBlidoZsrQTJKhuyHXngtkUCcqbVEPFfDIjeYApLSm",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.477302",
+        "Rate": "0.39890495722646413"
+    },
+    {
+        "S.No": "83425363",
+        "Product_Name": "gKsOlVLfYxAZDTeXoaSdpMwBWukUnqPtjymvirFIbhCJQREzcNHG",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.477347",
+        "Rate": "0.6605857404489803"
+    },
+    {
+        "S.No": "2126768963",
+        "Product_Name": "XfbvNRkigTOFUHmMhYIardWjoelPBxQZKAJEDnwcsCuVqLtGzypS",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.477391",
+        "Rate": "0.19316945040423406"
+    },
+    {
+        "S.No": "1164954538",
+        "Product_Name": "bkPejZRLiypDKrtgsOmoACawhTEHnGWxUMSfFVXdYlNzIJuQBcqv",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.477437",
+        "Rate": "0.12180366952980504"
+    },
+    {
+        "S.No": "119347438",
+        "Product_Name": "lBqDQMzubZgTxkajtXwWECSYORhencydJipIsoLNrfGmHFvAPVKU",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.477482",
+        "Rate": "0.2796323794474044"
+    },
+    {
+        "S.No": "2338533902",
+        "Product_Name": "ytMrDBXRcEGqfUzCHFxiWYjPOeZNIThLVAnvakdsglpQbmSJoKwu",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.477526",
+        "Rate": "0.8195080529716233"
+    },
+    {
+        "S.No": "3414427669",
+        "Product_Name": "TvPuAHzYxMLwONCGajZqkorKVUnmcsgRJeSFlQWfIDiBhtybdpEX",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.477570",
+        "Rate": "0.4969908366044141"
+    },
+    {
+        "S.No": "3385976583",
+        "Product_Name": "MIsjzKTPLNfxRUAlYatwuXSbmWQFZOpdEnkhGvgVByqiDoCercHJ",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.477614",
+        "Rate": "0.37103613435013383"
+    },
+    {
+        "S.No": "1746776992",
+        "Product_Name": "lmtRfDnszkKjMxIdWPiHUuvVaFGZpNrhXTBbEAcygqoYOeLSQwJC",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.477658",
+        "Rate": "0.28357512584556477"
+    },
+    {
+        "S.No": "53973628",
+        "Product_Name": "KbrskqhPcWIDYZtGVOHvQifCeNRlagxzXwJyBpnFSATmjMdLoUEu",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.477719",
+        "Rate": "0.9666129749613226"
+    },
+    {
+        "S.No": "3313829283",
+        "Product_Name": "rvtPoWfIKsSmYFMqHbENyTVRajuldxADzGUXihncBepCkOZwgLQJ",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.477768",
+        "Rate": "0.07180193658749423"
+    },
+    {
+        "S.No": "681583377",
+        "Product_Name": "MIOBURYLgibyGAskuPCterEaVxXlhFfJqpvdzKWZnTDjQcNHmoSw",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.477813",
+        "Rate": "0.4188515674366805"
+    },
+    {
+        "S.No": "153195293",
+        "Product_Name": "ecxzoQrOySUIwjhGluXgkYqdpEbvARJmKNLCisPaFZTVftDHnMWB",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.477860",
+        "Rate": "0.43604249243075255"
+    },
+    {
+        "S.No": "1241526369",
+        "Product_Name": "RUrKkwuBDFzWLTGtjhlsdMbZvScHpyXQmCfxOaNqIiVeYAnEJPgo",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.477968",
+        "Rate": "0.2475930667599735"
+    },
+    {
+        "S.No": "1620667050",
+        "Product_Name": "SNqAKQOxlZgdCfLGHYPhRrEVnIMvtyaezkmTXFpjuWswJUibBDoc",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.478017",
+        "Rate": "0.5266468813490413"
+    },
+    {
+        "S.No": "3122769705",
+        "Product_Name": "lKzofMcrbPyLpgHeZiXmnNvtThVwdauEsqYIJROjDxUFWGQkBCSA",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.478062",
+        "Rate": "0.07689635961499164"
+    },
+    {
+        "S.No": "2327056586",
+        "Product_Name": "QdRGoVZkOmeEyLBuHMgKPrlxIazbWCXqSviAJYcDtnFwTsNhfjUp",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.478106",
+        "Rate": "0.03047376232621446"
+    },
+    {
+        "S.No": "3579760130",
+        "Product_Name": "pXsDNaGZnMrYEPjtHgLQhRzokuKUyedflVJibcIFTSAxCOqWmwBv",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.478150",
+        "Rate": "0.9182391075499238"
+    },
+    {
+        "S.No": "3388155638",
+        "Product_Name": "kMbgFhzSmpDYNAuCxQJscroLtfPTnjWOiyUeVaEdBvGHKlqXIRZw",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.478195",
+        "Rate": "0.7867338248987644"
+    },
+    {
+        "S.No": "3527520864",
+        "Product_Name": "WpDlqxcbGFhPsTjitJmyXASKVnvEOoaYIdLkQerwgzBCNZuHRfUM",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.478239",
+        "Rate": "0.13743967078542063"
+    },
+    {
+        "S.No": "940995562",
+        "Product_Name": "RZgwKLQlbWIXCcvUoYHMqSkAhBnxrPfEzVapOeNutDFysimTGjdJ",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.478298",
+        "Rate": "0.6331130717807223"
+    },
+    {
+        "S.No": "1626683604",
+        "Product_Name": "QmHhfSjPiLYxJdwcZOyACpVFIXbRKlnWtNBEUukeGzgDqasTvMor",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.478344",
+        "Rate": "0.22825376577343104"
+    },
+    {
+        "S.No": "1770547392",
+        "Product_Name": "UDyXjlJARQmPFwVtxYoZhTGMenvfONqBCdHacbSKpgrLuiEWszIk",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.478390",
+        "Rate": "0.6445467940257272"
+    },
+    {
+        "S.No": "1294608030",
+        "Product_Name": "pBCJNHUWuYFPjlLMrQvsEtdgIwAOhycmDkqRaoiSnbVTXGZKfxze",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.478434",
+        "Rate": "0.34390478238400846"
+    },
+    {
+        "S.No": "138001881",
+        "Product_Name": "PhWJyrZtQYVzKlMFHCoSqcGDpwveILAaBxjTkmbOnsfNuRiEUdXg",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.478483",
+        "Rate": "0.5344196997580684"
+    },
+    {
+        "S.No": "481389167",
+        "Product_Name": "InoPwMsdeNYCXGxZLJiQKBtSbWpHmFzgrARvOcufEhTaylDVqjkU",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.478533",
+        "Rate": "0.6101146889620931"
+    },
+    {
+        "S.No": "1813830355",
+        "Product_Name": "gamwyRbzTkxJeAVCuMlfthpUNKnDdYFLXqSWQHPjZBGOIorcvisE",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.478577",
+        "Rate": "0.2305680974245119"
+    },
+    {
+        "S.No": "3274063441",
+        "Product_Name": "wjnBSRYfHpEgXIQJZUFWGuAylPCoOVmhTteLivMrxKqkaDzbcsNd",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.478621",
+        "Rate": "0.7696885870482281"
+    },
+    {
+        "S.No": "466688927",
+        "Product_Name": "ORLkwUefFPcdAiXghWCYHVxJjoBvIQpMtqbaTGZzDlumrnKSsNEy",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.478666",
+        "Rate": "0.6108385896368111"
+    },
+    {
+        "S.No": "3751493372",
+        "Product_Name": "XxJBsMKLTEWSdGDNCjPHYkVhAiFOwolbafgtZQyzcUnRqpvuemrI",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.478711",
+        "Rate": "0.09528984520981543"
+    },
+    {
+        "S.No": "319107994",
+        "Product_Name": "VDLYgukKXISNAOPhrbeEtjfyToxUiwFZdsGmavWJcBQqnMzHCRlp",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.478754",
+        "Rate": "0.3334615762183002"
+    },
+    {
+        "S.No": "1807624964",
+        "Product_Name": "DAPGOtIJfruvjRedbiMEqBCnWVHLlscTXhFxgQYZSmaokzpyKwUN",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.478799",
+        "Rate": "0.21755717971083643"
+    },
+    {
+        "S.No": "4178841245",
+        "Product_Name": "bDojHYSnZuzwLlgEdKMqftOiXrkGvVCWPTyAcpsxJIaFmQRhBNUe",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.478843",
+        "Rate": "0.5319302207543547"
+    },
+    {
+        "S.No": "2305361659",
+        "Product_Name": "PseGMJHfEIoQTynbVxNRikZAFdgjYlScrLXaKuzWvtUpChBmqwDO",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.478927",
+        "Rate": "0.5531074224755029"
+    },
+    {
+        "S.No": "3910681513",
+        "Product_Name": "OHrgwsAIXQlEJyBWMxbGcuaUYZohpRiVzSjCLmdnFqvtfDTNkeKP",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.478979",
+        "Rate": "0.44229730671351397"
+    },
+    {
+        "S.No": "3666969222",
+        "Product_Name": "HEQfhWctpaTDkdXqVziOFsKAjwZIlJMmgNrSCeGBvUnbYxyuoRLP",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.479023",
+        "Rate": "0.6202233509594811"
+    },
+    {
+        "S.No": "1297501950",
+        "Product_Name": "QFGWZqSrVpAhmnlTsIbkYLXEJowOcxgBKzdeMDPtjUfvCyNRHaui",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.479068",
+        "Rate": "0.3729338090259313"
+    },
+    {
+        "S.No": "190824034",
+        "Product_Name": "IzEtDXcOrjfYgVnyeMsWkQTuNhHKaxBwFRlUJpqvPomiLCZAGdbS",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.479113",
+        "Rate": "0.2557355910001998"
+    },
+    {
+        "S.No": "3687541992",
+        "Product_Name": "gaHUFSWAbIiORCGNMzuYpPjvkKsxnhBXecEmtfQJDwlorTydZVLq",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.479158",
+        "Rate": "0.42134015554726423"
+    },
+    {
+        "S.No": "1862173474",
+        "Product_Name": "ByGZuCHoJEdgAQWYXKcnFVfStMIpbzaPihxNOqRvkljUrLseDmwT",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.479203",
+        "Rate": "0.8209061302136671"
+    },
+    {
+        "S.No": "342106454",
+        "Product_Name": "tbciYyvOxofCahkdmjusQgAHVzwRLFZTJrNKpqEnUGBPSWIMDelX",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.479248",
+        "Rate": "0.39463559902214873"
+    },
+    {
+        "S.No": "4057678407",
+        "Product_Name": "YWPhFalLJBCexdntZGycSDImROzgMfNvEpXsbQoiAKUwkHqTjuVr",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.479293",
+        "Rate": "0.021405440920630125"
+    },
+    {
+        "S.No": "1661413888",
+        "Product_Name": "yAZHYKzPsetDVcBGrMqiNjIuwnWaXgxQmLvUEOTRbJSClFhkdfop",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.479336",
+        "Rate": "0.9868642524953506"
+    },
+    {
+        "S.No": "3577134355",
+        "Product_Name": "aJPWrGNzpDYexwVfQCyKtZnjoiUAIhTqFOsLgvMbdkXBRuHclSEm",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.479380",
+        "Rate": "0.47519463477679436"
+    },
+    {
+        "S.No": "2882999450",
+        "Product_Name": "SUwboBpJvCtPXOhjNzlYRqcfKFgxTZmyHQrdLkieanAIWMGVuEsD",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.479425",
+        "Rate": "0.8802732118274553"
+    },
+    {
+        "S.No": "1095521064",
+        "Product_Name": "PoSwcHvlbQFruTIDmyVgUXWpsifJNqOjZzBhxCEtKYaLnkMdAeGR",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.479470",
+        "Rate": "0.6749742929987066"
+    },
+    {
+        "S.No": "1099955675",
+        "Product_Name": "XzNoVQJfmjYsLcyMUPHSWdpeIgqGxikuORZTbarKEvAnDlCwtBhF",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.479514",
+        "Rate": "0.7124955058126471"
+    },
+    {
+        "S.No": "3969074239",
+        "Product_Name": "McORklrgEuaNAjvGZqVhmpBdobJKDIWyXYUzQwxCLitensfSHTFP",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.479559",
+        "Rate": "0.7812381149862813"
+    },
+    {
+        "S.No": "2923716483",
+        "Product_Name": "pTeLbalHkQrRuGdgNEhKcUDWzwMSJYsnvXVtPZioxICByqjOAmfF",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.479603",
+        "Rate": "0.441054275320665"
+    },
+    {
+        "S.No": "1884415466",
+        "Product_Name": "tJuIlLXgAGryciFjpZqVTvoPKDHdakxzefEwOsnYCSBmQURhMWNb",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.479647",
+        "Rate": "0.8243274760945754"
+    },
+    {
+        "S.No": "3450323858",
+        "Product_Name": "NOAFfrcGWxwtCdhEbYyJPDXTjelQIaBizMZSRkVHKgvnsUpoqmuL",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.479690",
+        "Rate": "0.736313855092389"
+    },
+    {
+        "S.No": "103485867",
+        "Product_Name": "PhYmiapzToLVGWUBQXHOSfZdjsEuCwnFkIxlJDbNgyRetvMrcAqK",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.479734",
+        "Rate": "0.1960525854065054"
+    },
+    {
+        "S.No": "2744876100",
+        "Product_Name": "khrqwAsDPjNntEXJzYGbOQRixvKcTouLdegyWMHZFpCfVBlSUaIm",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.479779",
+        "Rate": "0.050315513854210736"
+    },
+    {
+        "S.No": "1508313729",
+        "Product_Name": "UpHiKGQzsDtycnhbXefJBZvTYamuCNRlIoLrxkgjWVdqOAMSEwFP",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.479823",
+        "Rate": "0.9898378810540895"
+    },
+    {
+        "S.No": "3229681676",
+        "Product_Name": "YSXnVtedoxLKgkTcQUvuMwIPmNGqlhpAzjDsyEiRWZCfrJbaFBHO",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.479866",
+        "Rate": "0.4490811049209109"
+    },
+    {
+        "S.No": "3069713601",
+        "Product_Name": "xZnowmEKiDkqdlrsCNvpASfhPJyQLjWTgXcMbYuGUVHBatezFROI",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.479954",
+        "Rate": "0.508553553763413"
+    },
+    {
+        "S.No": "3872464029",
+        "Product_Name": "NMAIiByXSFrCdLZKWHwkJOjVpqmfzRgtPTaUxnoeucvYslhEDbQG",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.480000",
+        "Rate": "0.8901693387630198"
+    },
+    {
+        "S.No": "1648207427",
+        "Product_Name": "buZQDfapYOCIhnlRegvzEqsPTWixMNVrwBjtFGASJcXmHyLokUdK",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.480046",
+        "Rate": "0.10244206895865138"
+    },
+    {
+        "S.No": "3419565642",
+        "Product_Name": "CWgcUmuntSjfVMopRkxhleBbOKaXIPTFQyJDqZGwNLEYidArzHsv",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.480090",
+        "Rate": "0.39999415012056083"
+    },
+    {
+        "S.No": "1431154596",
+        "Product_Name": "LQXRAhqsmJWHvfktVMncrBNoezgTEaICDiyOwpbGUuFlYPjxdKZS",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.480139",
+        "Rate": "0.214640274143717"
+    },
+    {
+        "S.No": "1599822528",
+        "Product_Name": "XZGFVnbDLPkmAhECrJNYexzIHOvQRidWoTspcfguMlajUwStqKyB",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.480186",
+        "Rate": "0.3337023619893513"
+    },
+    {
+        "S.No": "2074661528",
+        "Product_Name": "lVYoizHGCxMtEZpJcBwbSNUXndIPmsDhfLWKaOrevTQFkugyRjqA",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.480231",
+        "Rate": "0.9655128868802341"
+    },
+    {
+        "S.No": "1746359574",
+        "Product_Name": "toJmhWRIUsjYQngBCANKGlqTFzafduSvHeZwikypXxLDMVcPObrE",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.480287",
+        "Rate": "0.6288804145864467"
+    },
+    {
+        "S.No": "666581276",
+        "Product_Name": "AVJxXqQSDGcweNbjLtOvYRZIfdEBzTlgKPFuirUnCmHWpkoMahsy",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.480355",
+        "Rate": "0.8178337787690125"
+    },
+    {
+        "S.No": "1752894836",
+        "Product_Name": "GWlZVcUYiPObBdomykwXrJDpMHLnqKhRQSjsezAFtIugafvTNECx",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.480453",
+        "Rate": "0.24184952576710628"
+    },
+    {
+        "S.No": "2287667445",
+        "Product_Name": "qWhuENbAQMLyCvkDXgaOjxdZIcnsRBYGiJUePfwHtmrKzSolVFpT",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.480561",
+        "Rate": "0.0028951677677241383"
+    },
+    {
+        "S.No": "1717470650",
+        "Product_Name": "FweSlRqgyTGptkLZoVBDJOIaUNvKCuzPbArhjmYHcMdEifsWxQnX",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.480669",
+        "Rate": "0.044846194104160575"
+    },
+    {
+        "S.No": "2281011490",
+        "Product_Name": "KYQBcZvGPfVjXrmHpJWACihqyaDTtlewMsNLogbxUSEIuRdOkFzn",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.480892",
+        "Rate": "0.4217291890950101"
+    },
+    {
+        "S.No": "2395362866",
+        "Product_Name": "rBlgjnRVoEWdQTFDJHuXAcyhNZpGmxsfYkatieUIwqPbCSLMKOzv",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.481064",
+        "Rate": "0.09841837278520404"
+    },
+    {
+        "S.No": "257043817",
+        "Product_Name": "msLSniTewDNyAqaYtJkcfdCpUvoIXrHVBlPugZEOxMhFbGWzQRjK",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.481302",
+        "Rate": "0.5833358398807575"
+    },
+    {
+        "S.No": "532548135",
+        "Product_Name": "VPDapUWzxwhyRKdCLMSsgbAkZvrcBeYjFoOlHqTmNJXtuiGfnEQI",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.481409",
+        "Rate": "0.7821076882621167"
+    },
+    {
+        "S.No": "802850557",
+        "Product_Name": "sxumVpOETSaqAPyIldoYZHwnCtNkKhRMGiUjBregzQJWfvXLFDcb",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.481506",
+        "Rate": "0.8017853214618963"
+    },
+    {
+        "S.No": "3160731732",
+        "Product_Name": "VwugRednJaFtZjfkUQOhCxSXlDANIHpsWzrTEcBiybqmLvYKPoMG",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.481600",
+        "Rate": "0.7814569747725602"
+    },
+    {
+        "S.No": "2340477594",
+        "Product_Name": "FHfLoSZvcuqXJtNAQUGarYRWiwDVlBdzjTeIKPmkMgnpCybxsOEh",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.481702",
+        "Rate": "0.37635622969629223"
+    },
+    {
+        "S.No": "2985069111",
+        "Product_Name": "xqsgMmUtNXoiDalZhWJVzOruIHEBpkFGwfcTYQnLjAveyKbdCRSP",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.481793",
+        "Rate": "0.000505558878460155"
+    },
+    {
+        "S.No": "708942779",
+        "Product_Name": "ktTIdnrRpOxHYcqbNFfgAKWyVCBwhEuPDjeJXQMizSsoalvLmZGU",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.481848",
+        "Rate": "0.007936351540357878"
+    },
+    {
+        "S.No": "798102260",
+        "Product_Name": "DwSeUYWNXTsBVPxbLHgrzCyhQKmqnljoZfMpctROGdvJkaFEAIiu",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.481969",
+        "Rate": "0.05490651973726379"
+    },
+    {
+        "S.No": "2162665631",
+        "Product_Name": "izRkNsaKhfFEutqcnlyTGJHMbSxvrLeYUdPOZBwDpAgmCIVXWjoQ",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.482063",
+        "Rate": "0.4246775655852463"
+    },
+    {
+        "S.No": "1042209116",
+        "Product_Name": "ovuUNBDqdjpGbaQSWOZicRhPLHnmFKAltMkYgyETwJrxCezIXsfV",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.482162",
+        "Rate": "0.7778907693916585"
+    },
+    {
+        "S.No": "2171800685",
+        "Product_Name": "oDGvJlrsjdWaHzNeYkhgUcZFtQSxViMqTKCpIAfyROPnbmwLXBuE",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.482238",
+        "Rate": "0.7950385117915681"
+    },
+    {
+        "S.No": "1508371700",
+        "Product_Name": "QUrGLjSWAbXsJkvpEeoHCfgDtzTYmuVZKPnNwiaycFdOMqIBxlRh",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.482310",
+        "Rate": "0.35366720008571195"
+    },
+    {
+        "S.No": "1566511806",
+        "Product_Name": "arkmvYbhMzeXPsnGdDRpcWJoIVwtOCULuTfNgQxHqyZjBSFiAlKE",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.482381",
+        "Rate": "0.26884347665384256"
+    },
+    {
+        "S.No": "3459430373",
+        "Product_Name": "lsZHTMVIhFtWJadKALUuYXiPbGoNpcgRDSqkOCfnwyvejBrEmQzx",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.482458",
+        "Rate": "0.07309155421673852"
+    },
+    {
+        "S.No": "1171442463",
+        "Product_Name": "RwFqfpYNMWebyhBEToOmrzCDsAgalLSkGJxUjPivucdXtQHnKIVZ",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.482542",
+        "Rate": "0.28942924407057824"
+    },
+    {
+        "S.No": "903705908",
+        "Product_Name": "CNjKRyBxLfIGPewdbtMqJSsrYZUhuEgWvacpnVkHFoDiOTmAQlzX",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.482639",
+        "Rate": "0.5262197525939173"
+    },
+    {
+        "S.No": "2239670241",
+        "Product_Name": "eBTHnLZlkbUAQmoEDgurOPavtMjcxySiIqYNwWsXfCVJdKpzhRFG",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.482748",
+        "Rate": "0.682118357362204"
+    },
+    {
+        "S.No": "2913236558",
+        "Product_Name": "UQfVKFwJliTpOsnRHmougPkjAaStNdXzeDEGMchvyCrWBbqYZIxL",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.482854",
+        "Rate": "0.32679897559307935"
+    },
+    {
+        "S.No": "2295601016",
+        "Product_Name": "RjcEKbIHCUPSgysVGuXmDpLZvMxlAJFnqOrBoiwaNehtWYdzfQTk",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.482999",
+        "Rate": "0.148579837913706"
+    },
+    {
+        "S.No": "4005947974",
+        "Product_Name": "pWsUmtKoZBrFPnwcqCluYAiQIdNGyESDOhXzkebfxjVJTRLvMgaH",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.483102",
+        "Rate": "0.8772376110260417"
+    },
+    {
+        "S.No": "3406103918",
+        "Product_Name": "otBhczAiJfOTCwvVPHjKWZuLMFXSdyUmpRqEbgrGIlxnQeYNDask",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.483210",
+        "Rate": "0.3386624596089155"
+    },
+    {
+        "S.No": "2434889938",
+        "Product_Name": "FSCPExnmlWysNTjZuKIeDRXVUzrvALBaHMiqbJhtkOcYpdQgoGwf",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.483273",
+        "Rate": "0.9861362330680042"
+    },
+    {
+        "S.No": "2947338845",
+        "Product_Name": "cOFibWluVtGzRaDXjUELCnrdYeSoPwsQxkmvTyKNgHAMIqBZJfph",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.483322",
+        "Rate": "0.05987749742457782"
+    },
+    {
+        "S.No": "2645791102",
+        "Product_Name": "muwoECrPdWNXYjOyRpVGJbHgxFzsQKlhkLaiTenBMZfDUStqAIcv",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.483367",
+        "Rate": "0.419552628754882"
+    },
+    {
+        "S.No": "629576673",
+        "Product_Name": "HOvrFTLePVUcJpxGAgSldDhWZmybRtCYjEQNIufXqkMowznsiBaK",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.483412",
+        "Rate": "0.23345535527281214"
+    },
+    {
+        "S.No": "2891696068",
+        "Product_Name": "ZHYGyrEgOXuwtPoSIKhljBqdcAMxaUeDbWzQVTpFmNfsJkivCLRn",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.483469",
+        "Rate": "0.38607761587427236"
+    },
+    {
+        "S.No": "2494858371",
+        "Product_Name": "ekHFfmOYbKaNSWdpMngAlPXsVUItcyJGhLzTQDuvjBqixZCERrow",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.483520",
+        "Rate": "0.42053077445903886"
+    },
+    {
+        "S.No": "1214200727",
+        "Product_Name": "FPMAiUTWSZbuHvwEaKOpsGVgRqrByjfLYhzXmdoQeklntNcJDxCI",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.483566",
+        "Rate": "0.6683919213323276"
+    },
+    {
+        "S.No": "3343771674",
+        "Product_Name": "SetQLkKzNDwFArlfjVxpyHnBIYWUiuGhgXTmbOMqRJdvPaEZocsC",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.483613",
+        "Rate": "0.9017496856127044"
+    },
+    {
+        "S.No": "3959667829",
+        "Product_Name": "MayIOpVBPRfWGtsEAnQgroSTHLDJdFmhwZxvkUcjCYlXeNqbKuzi",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.483690",
+        "Rate": "0.8409713881735116"
+    },
+    {
+        "S.No": "657077120",
+        "Product_Name": "ZwdSATXhMqbUazfjKQDyncstJPxgVlprLWiNoBkmeHFCEvROGIYu",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.483740",
+        "Rate": "0.19016238083627035"
+    },
+    {
+        "S.No": "100441059",
+        "Product_Name": "vqeBMOuzpaUGcmDFTbwQJldKsfHhPrZkXEIoCnSWjAVtyLNgRxiY",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.483786",
+        "Rate": "0.20682080948646953"
+    },
+    {
+        "S.No": "1481809087",
+        "Product_Name": "phidkxoPKZHnXFvQgMrEqLlTYzBJaNWRADVfSUGemwyOutCcsIbj",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.483831",
+        "Rate": "0.89057291742807"
+    },
+    {
+        "S.No": "3012037620",
+        "Product_Name": "NDsLKwCfiXOIhYElaFUcQMpRjWutZgmxVBPbznTAeovdkSyHqrGJ",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.483876",
+        "Rate": "0.8190672990304448"
+    },
+    {
+        "S.No": "160277174",
+        "Product_Name": "UqJTyrjpnwifgkVxBoaAdRGNOCvQtEPKzLsWcIhlHXSbYuZmDeFM",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.483969",
+        "Rate": "0.7262413952296733"
+    },
+    {
+        "S.No": "2848926215",
+        "Product_Name": "wFAeaMcyUSIYHRJhGWkVbQLfniEBmKDZOtuPqvxTpNXdjrzoglsC",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.484017",
+        "Rate": "0.5947483593370507"
+    },
+    {
+        "S.No": "2729820067",
+        "Product_Name": "VcZLTqFdbQrsSkIgyNJoRfHjPlxvOeKnYwDipmUtEACGhBuWMazX",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.484061",
+        "Rate": "0.13481420850037595"
+    },
+    {
+        "S.No": "3851289660",
+        "Product_Name": "AMycBpEHfzjsIFZwShWONQUXoGrDvRaJnTkbuliegmCqdKtLxPYV",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.484139",
+        "Rate": "0.11088505506303381"
+    },
+    {
+        "S.No": "965359306",
+        "Product_Name": "oBCNfYScQRedVIsHumpwPEtFJiLlGxZqKhAzaDkMvrgTnyWbUXjO",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.484234",
+        "Rate": "0.47046636439411604"
+    },
+    {
+        "S.No": "4008176819",
+        "Product_Name": "QoplgGNEeFXJfjrTSDsLwIHtyWdqcvPOxRCiZUVmknMAhzKuYBab",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.484334",
+        "Rate": "0.016837885533085517"
+    },
+    {
+        "S.No": "4210205031",
+        "Product_Name": "BkznImWZdiuCqtwMecoyjYHxNELRUTSFarvfJgDsPVAXpbOKQGhl",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.484444",
+        "Rate": "0.7756882862595292"
+    },
+    {
+        "S.No": "2351548847",
+        "Product_Name": "wypQxKXRMraBimcDoFEPLHkeWNtVGZnYAjzdSgUOCTIqhfvJbslu",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.484544",
+        "Rate": "0.05551791655799254"
+    },
+    {
+        "S.No": "4041426059",
+        "Product_Name": "SRMynmdUNrfDbjeYtJVQcgPXOxEvThuLioGIlFCZzBApqwKHWkas",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.484647",
+        "Rate": "0.6083512934822596"
+    },
+    {
+        "S.No": "1219219608",
+        "Product_Name": "fBOVdzvAQFtCjZImRHslWqcUiJgwyDKGxPakEYTLXSMunpNrbohe",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.484728",
+        "Rate": "0.5301627501205173"
+    },
+    {
+        "S.No": "977422910",
+        "Product_Name": "bPFpCgMzhAEOLQBWTfwcHNjIxRleSVoXDqyYJaKruZmGsidtvkUn",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.484779",
+        "Rate": "0.2689523430276799"
+    },
+    {
+        "S.No": "1410616200",
+        "Product_Name": "pLIFfPwlODMzYoncVqXxKNdmWrbUAQyCBvRuHeGsTZgiShtJkjEa",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.484826",
+        "Rate": "0.4054221595795743"
+    },
+    {
+        "S.No": "1931370637",
+        "Product_Name": "wWkKvEFCauxGVcbgpUoPBZDAzSJtnXlYhHRmTOyisQedLjqINMfr",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.484869",
+        "Rate": "0.3528879698763787"
+    },
+    {
+        "S.No": "2181938557",
+        "Product_Name": "IkzrPTaCdXWHNLijvwODYUhlmQsqBSRKfMtFcxypAobGgeVZuEJn",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.484963",
+        "Rate": "0.7399359171294915"
+    },
+    {
+        "S.No": "1337907306",
+        "Product_Name": "OhxBrVEaASHQKsnTYfyMtjPICDULkiWmwqpzluvRodbNGFXJZgec",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.485013",
+        "Rate": "0.9428986452711577"
+    },
+    {
+        "S.No": "2309492900",
+        "Product_Name": "jZMGbvrnigFCTxUBYIHPkKWQlDVszcOoEmewyqfNtdXLAphuSJaR",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.485057",
+        "Rate": "0.039056432464829705"
+    },
+    {
+        "S.No": "3996681572",
+        "Product_Name": "kwPeuJxBbfNylOUErhgQtCMWzdnsGFvVSKomLpTARcqHZjXiDYaI",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.485100",
+        "Rate": "0.010591551540130695"
+    },
+    {
+        "S.No": "4095334715",
+        "Product_Name": "SiYPAXujCcRExGfWmOLvqFzaVenQpwkUJTdlygHIroZhNDsBMtbK",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.485144",
+        "Rate": "0.667060147602833"
+    },
+    {
+        "S.No": "193864273",
+        "Product_Name": "NZDBOIrHPzmUyfXvAjlQgnhdFwtsLcEeVbkSpGRTKiMJCqWuaYxo",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.485189",
+        "Rate": "0.4746443455387236"
+    },
+    {
+        "S.No": "524935747",
+        "Product_Name": "bIVvsBWOwzEjPFNSlUotcTZeMDhGikXqpgAmRryuYQnJLfadxHCK",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.485273",
+        "Rate": "0.7668238527157483"
+    },
+    {
+        "S.No": "2959959632",
+        "Product_Name": "UMDGYphbKqJAaIPwmcTxnzQHCruLtjOgiyRSXflFeVEkvWsNZdoB",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.485374",
+        "Rate": "0.3280813212978768"
+    },
+    {
+        "S.No": "2871050859",
+        "Product_Name": "GIoWHebkhUqTvdwcsBKlzXDFAnVEQCZafuSMLpitJyjPYORNrmgx",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.485466",
+        "Rate": "0.2729470796754687"
+    },
+    {
+        "S.No": "1211308827",
+        "Product_Name": "OkBiCqacNZAHhPgwTyxKUFGstSYoVRQuvDezXmIrbfJEnWjlpMdL",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.485557",
+        "Rate": "0.5670466952067909"
+    },
+    {
+        "S.No": "1997989433",
+        "Product_Name": "tBbkhOAlVxzDIygrUfQYvPaHTJpiGLSEoXNwseWFmKnqdZujcCMR",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.485658",
+        "Rate": "0.2849269786839147"
+    },
+    {
+        "S.No": "3947263324",
+        "Product_Name": "jcJuTEmiHMAsKUrOCklFoZyQnbhXPeGqwYgBfNVpWxSLIvzadRDt",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.485763",
+        "Rate": "0.9436887434380588"
+    },
+    {
+        "S.No": "2091960532",
+        "Product_Name": "NJDbUtsuRYrPBTfchyGqFaCXvQiIEKlLAoVjmkSzxnWOdZwgeHpM",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.485817",
+        "Rate": "0.3553562719258915"
+    },
+    {
+        "S.No": "3317641641",
+        "Product_Name": "KGZtghuvVdQIqkXoCsnmUjfiBpJxDEONeAbSFcYzLwMTHyrPlRaW",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.485875",
+        "Rate": "0.5063141774272981"
+    },
+    {
+        "S.No": "2005067260",
+        "Product_Name": "CIgRxYFJGszeklcBVvQtyiXpdrHnPfOZmEhUNwaDqMWTLSAKjoub",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.485978",
+        "Rate": "0.2700745731141587"
+    },
+    {
+        "S.No": "1718126818",
+        "Product_Name": "tAQoPqTMiYGVglzDOXyahkCweWRUSbumJvNFjsKBIHnpxLErdcfZ",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.486025",
+        "Rate": "0.40592700208490484"
+    },
+    {
+        "S.No": "1758788195",
+        "Product_Name": "BVUAFJsibgOvpZhYCNtRKmjxTwQEaHzycfLIqneulPrModDWkGXS",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.486070",
+        "Rate": "0.43093435052461104"
+    },
+    {
+        "S.No": "4073105150",
+        "Product_Name": "OLydAivcZKMNfqelIHzxDVGRFCWTjXaJrnskuEBmgtPbSUhYQwpo",
+        "Product_Status": "True",
+        "Delivery_Date": "2025-12-02 05:34:07.486129",
+        "Rate": "0.2422507697868208"
+    },
+    {
+        "S.No": "2960392620",
+        "Product_Name": "qnDbkOMjRGUwtYNuLVAscEhBPxISrmTHXJfWgdvZzoeQlCyFKaip",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.486198",
+        "Rate": "0.6988273517893189"
+    },
+    {
+        "S.No": "1800406126",
+        "Product_Name": "RMoxdBrPAbIVENQlDLwpyiaTUuKFnfXWtzgsehqSkmvJCjZYHcGO",
+        "Product_Status": "False",
+        "Delivery_Date": "2025-12-02 05:34:07.486291",
+        "Rate": "0.7956593257621536"
     }
 ]

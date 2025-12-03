@@ -1,0 +1,3 @@
+This is a dummy text file created using Python.
+It contains multiple lines of example text.
+You can modify this content as needed.

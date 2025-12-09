@@ -1,0 +1,37 @@
+[
+    {
+        "name ": "Rahul",
+        "original_phone": "+91-9876543210",
+        "clean_phone": "9876543210"
+    },
+    {
+        "name ": "Sara",
+        "original_phone": "987 654 3211",
+        "clean_phone": "9876543211"
+    },
+    {
+        "name ": "John",
+        "original_phone": "(+91)9876543212",
+        "clean_phone": "9876543212"
+    },
+    {
+        "name ": "Amit",
+        "original_phone": "987-654-3213",
+        "clean_phone": "9876543213"
+    },
+    {
+        "name ": "Priya",
+        "original_phone": "+91 98765 43214",
+        "clean_phone": "9876543214"
+    },
+    {
+        "name ": "Mike",
+        "original_phone": "9876543215",
+        "clean_phone": "9876543215"
+    },
+    {
+        "name ": "Lisa",
+        "original_phone": "09876543216",
+        "clean_phone": "9876543216"
+    }
+]

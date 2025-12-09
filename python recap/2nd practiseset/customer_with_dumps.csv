@@ -1,0 +1,8 @@
+CustomerID,Name,Email,SignupDate
+101,Alice,alice@example.com,2023-01-01
+102,Bob,bob@example.com,2023-01-02
+103,Charlie,charlie@example.com,2023-01-03
+101,Alice,alice@example.com,2023-01-01
+104,David,david@example.com,2023-01-04
+102,Bob,bob@example.com,2023-01-02
+105,Eve,eve@example.com,2023-01-05

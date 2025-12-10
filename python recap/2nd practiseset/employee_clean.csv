@@ -1,0 +1,7 @@
+Name,Age,Salary,Department
+Alice,25.0,50000.0,HR
+Bob,28.0,54000.0,IT
+Charlie,30.0,median_salary,IT
+Eve,22.0,46000.0,Unknown
+Frank,28.0,52000.0,HR
+Grace,35.0,60000.0,IT
